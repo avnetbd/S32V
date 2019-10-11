@@ -1,0 +1,15 @@
+GLOBAL &term_com_port &ip_address &file_elf &dir_elf &dir_sdk &dir_vmlinux
+
+&term_com_port="COM7"
+&ip_address="10.29.204.121"
+&file_elf="pd.elf"
+&dir_elf=os.file.path(&(elf_file))
+&dir_sdk="../../../.."
+&dir_vmlinux="C:/Tools/Trace32/vmlinux"
+
+
+DO &(dir_sdk)/script/cmm/linux_userspace_process.cmm
+
+d.l
+
+ENDDO

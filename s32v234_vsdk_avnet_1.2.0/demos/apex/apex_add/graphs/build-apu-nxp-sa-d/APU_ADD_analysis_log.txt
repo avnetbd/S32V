@@ -1,0 +1,2748 @@
+************************************************************************
+VIABLE SCENARIOS (399/912)
+************************************************************************
+NOTE: the CMEM and DMEM memory requirements listed below are approximations; if a viable scenario
+      is near or equal to the memory limits, there is a chance it will be deemed non-viable at run-time.
+
+SCENARIO [2x1]
+---> (CMEM: 12/3840 DMEM: 16/96768)
+
+SCENARIO [4x1]
+---> (CMEM: 24/3840 DMEM: 16/96768)
+
+SCENARIO [6x1]
+---> (CMEM: 36/3840 DMEM: 16/96768)
+
+SCENARIO [8x1]
+---> (CMEM: 48/3840 DMEM: 16/96768)
+
+SCENARIO [10x1]
+---> (CMEM: 60/3840 DMEM: 16/96768)
+
+SCENARIO [12x1]
+---> (CMEM: 72/3840 DMEM: 16/96768)
+
+SCENARIO [14x1]
+---> (CMEM: 84/3840 DMEM: 16/96768)
+
+SCENARIO [16x1]
+---> (CMEM: 96/3840 DMEM: 16/96768)
+
+SCENARIO [18x1]
+---> (CMEM: 108/3840 DMEM: 16/96768)
+
+SCENARIO [20x1]
+---> (CMEM: 120/3840 DMEM: 16/96768)
+
+SCENARIO [22x1]
+---> (CMEM: 132/3840 DMEM: 16/96768)
+
+SCENARIO [24x1]
+---> (CMEM: 144/3840 DMEM: 16/96768)
+
+SCENARIO [26x1]
+---> (CMEM: 156/3840 DMEM: 16/96768)
+
+SCENARIO [28x1]
+---> (CMEM: 168/3840 DMEM: 16/96768)
+
+SCENARIO [30x1]
+---> (CMEM: 180/3840 DMEM: 16/96768)
+
+SCENARIO [32x1]
+---> (CMEM: 192/3840 DMEM: 16/96768)
+
+SCENARIO [36x1]
+---> (CMEM: 216/3840 DMEM: 16/96768)
+
+SCENARIO [40x1]
+---> (CMEM: 240/3840 DMEM: 16/96768)
+
+SCENARIO [44x1]
+---> (CMEM: 264/3840 DMEM: 16/96768)
+
+SCENARIO [48x1]
+---> (CMEM: 288/3840 DMEM: 16/96768)
+
+SCENARIO [52x1]
+---> (CMEM: 312/3840 DMEM: 16/96768)
+
+SCENARIO [56x1]
+---> (CMEM: 336/3840 DMEM: 16/96768)
+
+SCENARIO [60x1]
+---> (CMEM: 360/3840 DMEM: 16/96768)
+
+SCENARIO [64x1]
+---> (CMEM: 384/3840 DMEM: 16/96768)
+
+SCENARIO [72x1]
+---> (CMEM: 432/3840 DMEM: 16/96768)
+
+SCENARIO [80x1]
+---> (CMEM: 480/3840 DMEM: 16/96768)
+
+SCENARIO [88x1]
+---> (CMEM: 528/3840 DMEM: 16/96768)
+
+SCENARIO [96x1]
+---> (CMEM: 576/3840 DMEM: 16/96768)
+
+SCENARIO [104x1]
+---> (CMEM: 624/3840 DMEM: 16/96768)
+
+SCENARIO [112x1]
+---> (CMEM: 672/3840 DMEM: 16/96768)
+
+SCENARIO [120x1]
+---> (CMEM: 720/3840 DMEM: 16/96768)
+
+SCENARIO [128x1]
+---> (CMEM: 768/3840 DMEM: 16/96768)
+
+SCENARIO [2x2]
+---> (CMEM: 24/3840 DMEM: 16/96768)
+
+SCENARIO [4x2]
+---> (CMEM: 48/3840 DMEM: 16/96768)
+
+SCENARIO [6x2]
+---> (CMEM: 72/3840 DMEM: 16/96768)
+
+SCENARIO [8x2]
+---> (CMEM: 96/3840 DMEM: 16/96768)
+
+SCENARIO [10x2]
+---> (CMEM: 120/3840 DMEM: 16/96768)
+
+SCENARIO [12x2]
+---> (CMEM: 144/3840 DMEM: 16/96768)
+
+SCENARIO [14x2]
+---> (CMEM: 168/3840 DMEM: 16/96768)
+
+SCENARIO [16x2]
+---> (CMEM: 192/3840 DMEM: 16/96768)
+
+SCENARIO [18x2]
+---> (CMEM: 216/3840 DMEM: 16/96768)
+
+SCENARIO [20x2]
+---> (CMEM: 240/3840 DMEM: 16/96768)
+
+SCENARIO [22x2]
+---> (CMEM: 264/3840 DMEM: 16/96768)
+
+SCENARIO [24x2]
+---> (CMEM: 288/3840 DMEM: 16/96768)
+
+SCENARIO [26x2]
+---> (CMEM: 312/3840 DMEM: 16/96768)
+
+SCENARIO [28x2]
+---> (CMEM: 336/3840 DMEM: 16/96768)
+
+SCENARIO [30x2]
+---> (CMEM: 360/3840 DMEM: 16/96768)
+
+SCENARIO [32x2]
+---> (CMEM: 384/3840 DMEM: 16/96768)
+
+SCENARIO [36x2]
+---> (CMEM: 432/3840 DMEM: 16/96768)
+
+SCENARIO [40x2]
+---> (CMEM: 480/3840 DMEM: 16/96768)
+
+SCENARIO [44x2]
+---> (CMEM: 528/3840 DMEM: 16/96768)
+
+SCENARIO [48x2]
+---> (CMEM: 576/3840 DMEM: 16/96768)
+
+SCENARIO [52x2]
+---> (CMEM: 624/3840 DMEM: 16/96768)
+
+SCENARIO [56x2]
+---> (CMEM: 672/3840 DMEM: 16/96768)
+
+SCENARIO [60x2]
+---> (CMEM: 720/3840 DMEM: 16/96768)
+
+SCENARIO [64x2]
+---> (CMEM: 768/3840 DMEM: 16/96768)
+
+SCENARIO [72x2]
+---> (CMEM: 864/3840 DMEM: 16/96768)
+
+SCENARIO [80x2]
+---> (CMEM: 960/3840 DMEM: 16/96768)
+
+SCENARIO [88x2]
+---> (CMEM: 1056/3840 DMEM: 16/96768)
+
+SCENARIO [96x2]
+---> (CMEM: 1152/3840 DMEM: 16/96768)
+
+SCENARIO [104x2]
+---> (CMEM: 1248/3840 DMEM: 16/96768)
+
+SCENARIO [112x2]
+---> (CMEM: 1344/3840 DMEM: 16/96768)
+
+SCENARIO [120x2]
+---> (CMEM: 1440/3840 DMEM: 16/96768)
+
+SCENARIO [128x2]
+---> (CMEM: 1536/3840 DMEM: 16/96768)
+
+SCENARIO [2x3]
+---> (CMEM: 36/3840 DMEM: 16/96768)
+
+SCENARIO [4x3]
+---> (CMEM: 72/3840 DMEM: 16/96768)
+
+SCENARIO [6x3]
+---> (CMEM: 108/3840 DMEM: 16/96768)
+
+SCENARIO [8x3]
+---> (CMEM: 144/3840 DMEM: 16/96768)
+
+SCENARIO [10x3]
+---> (CMEM: 180/3840 DMEM: 16/96768)
+
+SCENARIO [12x3]
+---> (CMEM: 216/3840 DMEM: 16/96768)
+
+SCENARIO [14x3]
+---> (CMEM: 252/3840 DMEM: 16/96768)
+
+SCENARIO [16x3]
+---> (CMEM: 288/3840 DMEM: 16/96768)
+
+SCENARIO [18x3]
+---> (CMEM: 324/3840 DMEM: 16/96768)
+
+SCENARIO [20x3]
+---> (CMEM: 360/3840 DMEM: 16/96768)
+
+SCENARIO [22x3]
+---> (CMEM: 396/3840 DMEM: 16/96768)
+
+SCENARIO [24x3]
+---> (CMEM: 432/3840 DMEM: 16/96768)
+
+SCENARIO [26x3]
+---> (CMEM: 468/3840 DMEM: 16/96768)
+
+SCENARIO [28x3]
+---> (CMEM: 504/3840 DMEM: 16/96768)
+
+SCENARIO [30x3]
+---> (CMEM: 540/3840 DMEM: 16/96768)
+
+SCENARIO [32x3]
+---> (CMEM: 576/3840 DMEM: 16/96768)
+
+SCENARIO [36x3]
+---> (CMEM: 648/3840 DMEM: 16/96768)
+
+SCENARIO [40x3]
+---> (CMEM: 720/3840 DMEM: 16/96768)
+
+SCENARIO [44x3]
+---> (CMEM: 792/3840 DMEM: 16/96768)
+
+SCENARIO [48x3]
+---> (CMEM: 864/3840 DMEM: 16/96768)
+
+SCENARIO [52x3]
+---> (CMEM: 936/3840 DMEM: 16/96768)
+
+SCENARIO [56x3]
+---> (CMEM: 1008/3840 DMEM: 16/96768)
+
+SCENARIO [60x3]
+---> (CMEM: 1080/3840 DMEM: 16/96768)
+
+SCENARIO [64x3]
+---> (CMEM: 1152/3840 DMEM: 16/96768)
+
+SCENARIO [72x3]
+---> (CMEM: 1296/3840 DMEM: 16/96768)
+
+SCENARIO [80x3]
+---> (CMEM: 1440/3840 DMEM: 16/96768)
+
+SCENARIO [88x3]
+---> (CMEM: 1584/3840 DMEM: 16/96768)
+
+SCENARIO [96x3]
+---> (CMEM: 1728/3840 DMEM: 16/96768)
+
+SCENARIO [104x3]
+---> (CMEM: 1872/3840 DMEM: 16/96768)
+
+SCENARIO [112x3]
+---> (CMEM: 2016/3840 DMEM: 16/96768)
+
+SCENARIO [120x3]
+---> (CMEM: 2160/3840 DMEM: 16/96768)
+
+SCENARIO [128x3]
+---> (CMEM: 2304/3840 DMEM: 16/96768)
+
+SCENARIO [2x4]
+---> (CMEM: 48/3840 DMEM: 16/96768)
+
+SCENARIO [4x4]
+---> (CMEM: 96/3840 DMEM: 16/96768)
+
+SCENARIO [6x4]
+---> (CMEM: 144/3840 DMEM: 16/96768)
+
+SCENARIO [8x4]
+---> (CMEM: 192/3840 DMEM: 16/96768)
+
+SCENARIO [10x4]
+---> (CMEM: 240/3840 DMEM: 16/96768)
+
+SCENARIO [12x4]
+---> (CMEM: 288/3840 DMEM: 16/96768)
+
+SCENARIO [14x4]
+---> (CMEM: 336/3840 DMEM: 16/96768)
+
+SCENARIO [16x4]
+---> (CMEM: 384/3840 DMEM: 16/96768)
+
+SCENARIO [18x4]
+---> (CMEM: 432/3840 DMEM: 16/96768)
+
+SCENARIO [20x4]
+---> (CMEM: 480/3840 DMEM: 16/96768)
+
+SCENARIO [22x4]
+---> (CMEM: 528/3840 DMEM: 16/96768)
+
+SCENARIO [24x4]
+---> (CMEM: 576/3840 DMEM: 16/96768)
+
+SCENARIO [26x4]
+---> (CMEM: 624/3840 DMEM: 16/96768)
+
+SCENARIO [28x4]
+---> (CMEM: 672/3840 DMEM: 16/96768)
+
+SCENARIO [30x4]
+---> (CMEM: 720/3840 DMEM: 16/96768)
+
+SCENARIO [32x4]
+---> (CMEM: 768/3840 DMEM: 16/96768)
+
+SCENARIO [36x4]
+---> (CMEM: 864/3840 DMEM: 16/96768)
+
+SCENARIO [40x4]
+---> (CMEM: 960/3840 DMEM: 16/96768)
+
+SCENARIO [44x4]
+---> (CMEM: 1056/3840 DMEM: 16/96768)
+
+SCENARIO [48x4]
+---> (CMEM: 1152/3840 DMEM: 16/96768)
+
+SCENARIO [52x4]
+---> (CMEM: 1248/3840 DMEM: 16/96768)
+
+SCENARIO [56x4]
+---> (CMEM: 1344/3840 DMEM: 16/96768)
+
+SCENARIO [60x4]
+---> (CMEM: 1440/3840 DMEM: 16/96768)
+
+SCENARIO [64x4]
+---> (CMEM: 1536/3840 DMEM: 16/96768)
+
+SCENARIO [72x4]
+---> (CMEM: 1728/3840 DMEM: 16/96768)
+
+SCENARIO [80x4]
+---> (CMEM: 1920/3840 DMEM: 16/96768)
+
+SCENARIO [88x4]
+---> (CMEM: 2112/3840 DMEM: 16/96768)
+
+SCENARIO [96x4]
+---> (CMEM: 2304/3840 DMEM: 16/96768)
+
+SCENARIO [104x4]
+---> (CMEM: 2496/3840 DMEM: 16/96768)
+
+SCENARIO [112x4]
+---> (CMEM: 2688/3840 DMEM: 16/96768)
+
+SCENARIO [120x4]
+---> (CMEM: 2880/3840 DMEM: 16/96768)
+
+SCENARIO [128x4]
+---> (CMEM: 3072/3840 DMEM: 16/96768)
+
+SCENARIO [2x5]
+---> (CMEM: 60/3840 DMEM: 16/96768)
+
+SCENARIO [4x5]
+---> (CMEM: 120/3840 DMEM: 16/96768)
+
+SCENARIO [6x5]
+---> (CMEM: 180/3840 DMEM: 16/96768)
+
+SCENARIO [8x5]
+---> (CMEM: 240/3840 DMEM: 16/96768)
+
+SCENARIO [10x5]
+---> (CMEM: 300/3840 DMEM: 16/96768)
+
+SCENARIO [12x5]
+---> (CMEM: 360/3840 DMEM: 16/96768)
+
+SCENARIO [14x5]
+---> (CMEM: 420/3840 DMEM: 16/96768)
+
+SCENARIO [16x5]
+---> (CMEM: 480/3840 DMEM: 16/96768)
+
+SCENARIO [18x5]
+---> (CMEM: 540/3840 DMEM: 16/96768)
+
+SCENARIO [20x5]
+---> (CMEM: 600/3840 DMEM: 16/96768)
+
+SCENARIO [22x5]
+---> (CMEM: 660/3840 DMEM: 16/96768)
+
+SCENARIO [24x5]
+---> (CMEM: 720/3840 DMEM: 16/96768)
+
+SCENARIO [26x5]
+---> (CMEM: 780/3840 DMEM: 16/96768)
+
+SCENARIO [28x5]
+---> (CMEM: 840/3840 DMEM: 16/96768)
+
+SCENARIO [30x5]
+---> (CMEM: 900/3840 DMEM: 16/96768)
+
+SCENARIO [32x5]
+---> (CMEM: 960/3840 DMEM: 16/96768)
+
+SCENARIO [36x5]
+---> (CMEM: 1080/3840 DMEM: 16/96768)
+
+SCENARIO [40x5]
+---> (CMEM: 1200/3840 DMEM: 16/96768)
+
+SCENARIO [44x5]
+---> (CMEM: 1320/3840 DMEM: 16/96768)
+
+SCENARIO [48x5]
+---> (CMEM: 1440/3840 DMEM: 16/96768)
+
+SCENARIO [52x5]
+---> (CMEM: 1560/3840 DMEM: 16/96768)
+
+SCENARIO [56x5]
+---> (CMEM: 1680/3840 DMEM: 16/96768)
+
+SCENARIO [60x5]
+---> (CMEM: 1800/3840 DMEM: 16/96768)
+
+SCENARIO [64x5]
+---> (CMEM: 1920/3840 DMEM: 16/96768)
+
+SCENARIO [72x5]
+---> (CMEM: 2160/3840 DMEM: 16/96768)
+
+SCENARIO [80x5]
+---> (CMEM: 2400/3840 DMEM: 16/96768)
+
+SCENARIO [88x5]
+---> (CMEM: 2640/3840 DMEM: 16/96768)
+
+SCENARIO [96x5]
+---> (CMEM: 2880/3840 DMEM: 16/96768)
+
+SCENARIO [104x5]
+---> (CMEM: 3120/3840 DMEM: 16/96768)
+
+SCENARIO [112x5]
+---> (CMEM: 3360/3840 DMEM: 16/96768)
+
+SCENARIO [120x5]
+---> (CMEM: 3600/3840 DMEM: 16/96768)
+
+SCENARIO [128x5]
+---> (CMEM: 3840/3840 DMEM: 16/96768)
+
+SCENARIO [2x6]
+---> (CMEM: 72/3840 DMEM: 16/96768)
+
+SCENARIO [4x6]
+---> (CMEM: 144/3840 DMEM: 16/96768)
+
+SCENARIO [6x6]
+---> (CMEM: 216/3840 DMEM: 16/96768)
+
+SCENARIO [8x6]
+---> (CMEM: 288/3840 DMEM: 16/96768)
+
+SCENARIO [10x6]
+---> (CMEM: 360/3840 DMEM: 16/96768)
+
+SCENARIO [12x6]
+---> (CMEM: 432/3840 DMEM: 16/96768)
+
+SCENARIO [14x6]
+---> (CMEM: 504/3840 DMEM: 16/96768)
+
+SCENARIO [16x6]
+---> (CMEM: 576/3840 DMEM: 16/96768)
+
+SCENARIO [18x6]
+---> (CMEM: 648/3840 DMEM: 16/96768)
+
+SCENARIO [20x6]
+---> (CMEM: 720/3840 DMEM: 16/96768)
+
+SCENARIO [22x6]
+---> (CMEM: 792/3840 DMEM: 16/96768)
+
+SCENARIO [24x6]
+---> (CMEM: 864/3840 DMEM: 16/96768)
+
+SCENARIO [26x6]
+---> (CMEM: 936/3840 DMEM: 16/96768)
+
+SCENARIO [28x6]
+---> (CMEM: 1008/3840 DMEM: 16/96768)
+
+SCENARIO [30x6]
+---> (CMEM: 1080/3840 DMEM: 16/96768)
+
+SCENARIO [32x6]
+---> (CMEM: 1152/3840 DMEM: 16/96768)
+
+SCENARIO [36x6]
+---> (CMEM: 1296/3840 DMEM: 16/96768)
+
+SCENARIO [40x6]
+---> (CMEM: 1440/3840 DMEM: 16/96768)
+
+SCENARIO [44x6]
+---> (CMEM: 1584/3840 DMEM: 16/96768)
+
+SCENARIO [48x6]
+---> (CMEM: 1728/3840 DMEM: 16/96768)
+
+SCENARIO [52x6]
+---> (CMEM: 1872/3840 DMEM: 16/96768)
+
+SCENARIO [56x6]
+---> (CMEM: 2016/3840 DMEM: 16/96768)
+
+SCENARIO [60x6]
+---> (CMEM: 2160/3840 DMEM: 16/96768)
+
+SCENARIO [64x6]
+---> (CMEM: 2304/3840 DMEM: 16/96768)
+
+SCENARIO [72x6]
+---> (CMEM: 2592/3840 DMEM: 16/96768)
+
+SCENARIO [80x6]
+---> (CMEM: 2880/3840 DMEM: 16/96768)
+
+SCENARIO [88x6]
+---> (CMEM: 3168/3840 DMEM: 16/96768)
+
+SCENARIO [96x6]
+---> (CMEM: 3456/3840 DMEM: 16/96768)
+
+SCENARIO [104x6]
+---> (CMEM: 3744/3840 DMEM: 16/96768)
+
+SCENARIO [2x8]
+---> (CMEM: 96/3840 DMEM: 16/96768)
+
+SCENARIO [4x8]
+---> (CMEM: 192/3840 DMEM: 16/96768)
+
+SCENARIO [6x8]
+---> (CMEM: 288/3840 DMEM: 16/96768)
+
+SCENARIO [8x8]
+---> (CMEM: 384/3840 DMEM: 16/96768)
+
+SCENARIO [10x8]
+---> (CMEM: 480/3840 DMEM: 16/96768)
+
+SCENARIO [12x8]
+---> (CMEM: 576/3840 DMEM: 16/96768)
+
+SCENARIO [14x8]
+---> (CMEM: 672/3840 DMEM: 16/96768)
+
+SCENARIO [16x8]
+---> (CMEM: 768/3840 DMEM: 16/96768)
+
+SCENARIO [18x8]
+---> (CMEM: 864/3840 DMEM: 16/96768)
+
+SCENARIO [20x8]
+---> (CMEM: 960/3840 DMEM: 16/96768)
+
+SCENARIO [22x8]
+---> (CMEM: 1056/3840 DMEM: 16/96768)
+
+SCENARIO [24x8]
+---> (CMEM: 1152/3840 DMEM: 16/96768)
+
+SCENARIO [26x8]
+---> (CMEM: 1248/3840 DMEM: 16/96768)
+
+SCENARIO [28x8]
+---> (CMEM: 1344/3840 DMEM: 16/96768)
+
+SCENARIO [30x8]
+---> (CMEM: 1440/3840 DMEM: 16/96768)
+
+SCENARIO [32x8]
+---> (CMEM: 1536/3840 DMEM: 16/96768)
+
+SCENARIO [36x8]
+---> (CMEM: 1728/3840 DMEM: 16/96768)
+
+SCENARIO [40x8]
+---> (CMEM: 1920/3840 DMEM: 16/96768)
+
+SCENARIO [44x8]
+---> (CMEM: 2112/3840 DMEM: 16/96768)
+
+SCENARIO [48x8]
+---> (CMEM: 2304/3840 DMEM: 16/96768)
+
+SCENARIO [52x8]
+---> (CMEM: 2496/3840 DMEM: 16/96768)
+
+SCENARIO [56x8]
+---> (CMEM: 2688/3840 DMEM: 16/96768)
+
+SCENARIO [60x8]
+---> (CMEM: 2880/3840 DMEM: 16/96768)
+
+SCENARIO [64x8]
+---> (CMEM: 3072/3840 DMEM: 16/96768)
+
+SCENARIO [72x8]
+---> (CMEM: 3456/3840 DMEM: 16/96768)
+
+SCENARIO [80x8]
+---> (CMEM: 3840/3840 DMEM: 16/96768)
+
+SCENARIO [2x10]
+---> (CMEM: 120/3840 DMEM: 16/96768)
+
+SCENARIO [4x10]
+---> (CMEM: 240/3840 DMEM: 16/96768)
+
+SCENARIO [6x10]
+---> (CMEM: 360/3840 DMEM: 16/96768)
+
+SCENARIO [8x10]
+---> (CMEM: 480/3840 DMEM: 16/96768)
+
+SCENARIO [10x10]
+---> (CMEM: 600/3840 DMEM: 16/96768)
+
+SCENARIO [12x10]
+---> (CMEM: 720/3840 DMEM: 16/96768)
+
+SCENARIO [14x10]
+---> (CMEM: 840/3840 DMEM: 16/96768)
+
+SCENARIO [16x10]
+---> (CMEM: 960/3840 DMEM: 16/96768)
+
+SCENARIO [18x10]
+---> (CMEM: 1080/3840 DMEM: 16/96768)
+
+SCENARIO [20x10]
+---> (CMEM: 1200/3840 DMEM: 16/96768)
+
+SCENARIO [22x10]
+---> (CMEM: 1320/3840 DMEM: 16/96768)
+
+SCENARIO [24x10]
+---> (CMEM: 1440/3840 DMEM: 16/96768)
+
+SCENARIO [26x10]
+---> (CMEM: 1560/3840 DMEM: 16/96768)
+
+SCENARIO [28x10]
+---> (CMEM: 1680/3840 DMEM: 16/96768)
+
+SCENARIO [30x10]
+---> (CMEM: 1800/3840 DMEM: 16/96768)
+
+SCENARIO [32x10]
+---> (CMEM: 1920/3840 DMEM: 16/96768)
+
+SCENARIO [36x10]
+---> (CMEM: 2160/3840 DMEM: 16/96768)
+
+SCENARIO [40x10]
+---> (CMEM: 2400/3840 DMEM: 16/96768)
+
+SCENARIO [44x10]
+---> (CMEM: 2640/3840 DMEM: 16/96768)
+
+SCENARIO [48x10]
+---> (CMEM: 2880/3840 DMEM: 16/96768)
+
+SCENARIO [52x10]
+---> (CMEM: 3120/3840 DMEM: 16/96768)
+
+SCENARIO [56x10]
+---> (CMEM: 3360/3840 DMEM: 16/96768)
+
+SCENARIO [60x10]
+---> (CMEM: 3600/3840 DMEM: 16/96768)
+
+SCENARIO [64x10]
+---> (CMEM: 3840/3840 DMEM: 16/96768)
+
+SCENARIO [2x12]
+---> (CMEM: 144/3840 DMEM: 16/96768)
+
+SCENARIO [4x12]
+---> (CMEM: 288/3840 DMEM: 16/96768)
+
+SCENARIO [6x12]
+---> (CMEM: 432/3840 DMEM: 16/96768)
+
+SCENARIO [8x12]
+---> (CMEM: 576/3840 DMEM: 16/96768)
+
+SCENARIO [10x12]
+---> (CMEM: 720/3840 DMEM: 16/96768)
+
+SCENARIO [12x12]
+---> (CMEM: 864/3840 DMEM: 16/96768)
+
+SCENARIO [14x12]
+---> (CMEM: 1008/3840 DMEM: 16/96768)
+
+SCENARIO [16x12]
+---> (CMEM: 1152/3840 DMEM: 16/96768)
+
+SCENARIO [18x12]
+---> (CMEM: 1296/3840 DMEM: 16/96768)
+
+SCENARIO [20x12]
+---> (CMEM: 1440/3840 DMEM: 16/96768)
+
+SCENARIO [22x12]
+---> (CMEM: 1584/3840 DMEM: 16/96768)
+
+SCENARIO [24x12]
+---> (CMEM: 1728/3840 DMEM: 16/96768)
+
+SCENARIO [26x12]
+---> (CMEM: 1872/3840 DMEM: 16/96768)
+
+SCENARIO [28x12]
+---> (CMEM: 2016/3840 DMEM: 16/96768)
+
+SCENARIO [30x12]
+---> (CMEM: 2160/3840 DMEM: 16/96768)
+
+SCENARIO [32x12]
+---> (CMEM: 2304/3840 DMEM: 16/96768)
+
+SCENARIO [36x12]
+---> (CMEM: 2592/3840 DMEM: 16/96768)
+
+SCENARIO [40x12]
+---> (CMEM: 2880/3840 DMEM: 16/96768)
+
+SCENARIO [44x12]
+---> (CMEM: 3168/3840 DMEM: 16/96768)
+
+SCENARIO [48x12]
+---> (CMEM: 3456/3840 DMEM: 16/96768)
+
+SCENARIO [52x12]
+---> (CMEM: 3744/3840 DMEM: 16/96768)
+
+SCENARIO [2x14]
+---> (CMEM: 168/3840 DMEM: 16/96768)
+
+SCENARIO [4x14]
+---> (CMEM: 336/3840 DMEM: 16/96768)
+
+SCENARIO [6x14]
+---> (CMEM: 504/3840 DMEM: 16/96768)
+
+SCENARIO [8x14]
+---> (CMEM: 672/3840 DMEM: 16/96768)
+
+SCENARIO [10x14]
+---> (CMEM: 840/3840 DMEM: 16/96768)
+
+SCENARIO [12x14]
+---> (CMEM: 1008/3840 DMEM: 16/96768)
+
+SCENARIO [14x14]
+---> (CMEM: 1176/3840 DMEM: 16/96768)
+
+SCENARIO [16x14]
+---> (CMEM: 1344/3840 DMEM: 16/96768)
+
+SCENARIO [18x14]
+---> (CMEM: 1512/3840 DMEM: 16/96768)
+
+SCENARIO [20x14]
+---> (CMEM: 1680/3840 DMEM: 16/96768)
+
+SCENARIO [22x14]
+---> (CMEM: 1848/3840 DMEM: 16/96768)
+
+SCENARIO [24x14]
+---> (CMEM: 2016/3840 DMEM: 16/96768)
+
+SCENARIO [26x14]
+---> (CMEM: 2184/3840 DMEM: 16/96768)
+
+SCENARIO [28x14]
+---> (CMEM: 2352/3840 DMEM: 16/96768)
+
+SCENARIO [30x14]
+---> (CMEM: 2520/3840 DMEM: 16/96768)
+
+SCENARIO [32x14]
+---> (CMEM: 2688/3840 DMEM: 16/96768)
+
+SCENARIO [36x14]
+---> (CMEM: 3024/3840 DMEM: 16/96768)
+
+SCENARIO [40x14]
+---> (CMEM: 3360/3840 DMEM: 16/96768)
+
+SCENARIO [44x14]
+---> (CMEM: 3696/3840 DMEM: 16/96768)
+
+SCENARIO [2x16]
+---> (CMEM: 192/3840 DMEM: 16/96768)
+
+SCENARIO [4x16]
+---> (CMEM: 384/3840 DMEM: 16/96768)
+
+SCENARIO [6x16]
+---> (CMEM: 576/3840 DMEM: 16/96768)
+
+SCENARIO [8x16]
+---> (CMEM: 768/3840 DMEM: 16/96768)
+
+SCENARIO [10x16]
+---> (CMEM: 960/3840 DMEM: 16/96768)
+
+SCENARIO [12x16]
+---> (CMEM: 1152/3840 DMEM: 16/96768)
+
+SCENARIO [14x16]
+---> (CMEM: 1344/3840 DMEM: 16/96768)
+
+SCENARIO [16x16]
+---> (CMEM: 1536/3840 DMEM: 16/96768)
+
+SCENARIO [18x16]
+---> (CMEM: 1728/3840 DMEM: 16/96768)
+
+SCENARIO [20x16]
+---> (CMEM: 1920/3840 DMEM: 16/96768)
+
+SCENARIO [22x16]
+---> (CMEM: 2112/3840 DMEM: 16/96768)
+
+SCENARIO [24x16]
+---> (CMEM: 2304/3840 DMEM: 16/96768)
+
+SCENARIO [26x16]
+---> (CMEM: 2496/3840 DMEM: 16/96768)
+
+SCENARIO [28x16]
+---> (CMEM: 2688/3840 DMEM: 16/96768)
+
+SCENARIO [30x16]
+---> (CMEM: 2880/3840 DMEM: 16/96768)
+
+SCENARIO [32x16]
+---> (CMEM: 3072/3840 DMEM: 16/96768)
+
+SCENARIO [36x16]
+---> (CMEM: 3456/3840 DMEM: 16/96768)
+
+SCENARIO [40x16]
+---> (CMEM: 3840/3840 DMEM: 16/96768)
+
+SCENARIO [2x18]
+---> (CMEM: 216/3840 DMEM: 16/96768)
+
+SCENARIO [4x18]
+---> (CMEM: 432/3840 DMEM: 16/96768)
+
+SCENARIO [6x18]
+---> (CMEM: 648/3840 DMEM: 16/96768)
+
+SCENARIO [8x18]
+---> (CMEM: 864/3840 DMEM: 16/96768)
+
+SCENARIO [10x18]
+---> (CMEM: 1080/3840 DMEM: 16/96768)
+
+SCENARIO [12x18]
+---> (CMEM: 1296/3840 DMEM: 16/96768)
+
+SCENARIO [14x18]
+---> (CMEM: 1512/3840 DMEM: 16/96768)
+
+SCENARIO [16x18]
+---> (CMEM: 1728/3840 DMEM: 16/96768)
+
+SCENARIO [18x18]
+---> (CMEM: 1944/3840 DMEM: 16/96768)
+
+SCENARIO [20x18]
+---> (CMEM: 2160/3840 DMEM: 16/96768)
+
+SCENARIO [22x18]
+---> (CMEM: 2376/3840 DMEM: 16/96768)
+
+SCENARIO [24x18]
+---> (CMEM: 2592/3840 DMEM: 16/96768)
+
+SCENARIO [26x18]
+---> (CMEM: 2808/3840 DMEM: 16/96768)
+
+SCENARIO [28x18]
+---> (CMEM: 3024/3840 DMEM: 16/96768)
+
+SCENARIO [30x18]
+---> (CMEM: 3240/3840 DMEM: 16/96768)
+
+SCENARIO [32x18]
+---> (CMEM: 3456/3840 DMEM: 16/96768)
+
+SCENARIO [2x20]
+---> (CMEM: 240/3840 DMEM: 16/96768)
+
+SCENARIO [4x20]
+---> (CMEM: 480/3840 DMEM: 16/96768)
+
+SCENARIO [6x20]
+---> (CMEM: 720/3840 DMEM: 16/96768)
+
+SCENARIO [8x20]
+---> (CMEM: 960/3840 DMEM: 16/96768)
+
+SCENARIO [10x20]
+---> (CMEM: 1200/3840 DMEM: 16/96768)
+
+SCENARIO [12x20]
+---> (CMEM: 1440/3840 DMEM: 16/96768)
+
+SCENARIO [14x20]
+---> (CMEM: 1680/3840 DMEM: 16/96768)
+
+SCENARIO [16x20]
+---> (CMEM: 1920/3840 DMEM: 16/96768)
+
+SCENARIO [18x20]
+---> (CMEM: 2160/3840 DMEM: 16/96768)
+
+SCENARIO [20x20]
+---> (CMEM: 2400/3840 DMEM: 16/96768)
+
+SCENARIO [22x20]
+---> (CMEM: 2640/3840 DMEM: 16/96768)
+
+SCENARIO [24x20]
+---> (CMEM: 2880/3840 DMEM: 16/96768)
+
+SCENARIO [26x20]
+---> (CMEM: 3120/3840 DMEM: 16/96768)
+
+SCENARIO [28x20]
+---> (CMEM: 3360/3840 DMEM: 16/96768)
+
+SCENARIO [30x20]
+---> (CMEM: 3600/3840 DMEM: 16/96768)
+
+SCENARIO [32x20]
+---> (CMEM: 3840/3840 DMEM: 16/96768)
+
+SCENARIO [2x22]
+---> (CMEM: 264/3840 DMEM: 16/96768)
+
+SCENARIO [4x22]
+---> (CMEM: 528/3840 DMEM: 16/96768)
+
+SCENARIO [6x22]
+---> (CMEM: 792/3840 DMEM: 16/96768)
+
+SCENARIO [8x22]
+---> (CMEM: 1056/3840 DMEM: 16/96768)
+
+SCENARIO [10x22]
+---> (CMEM: 1320/3840 DMEM: 16/96768)
+
+SCENARIO [12x22]
+---> (CMEM: 1584/3840 DMEM: 16/96768)
+
+SCENARIO [14x22]
+---> (CMEM: 1848/3840 DMEM: 16/96768)
+
+SCENARIO [16x22]
+---> (CMEM: 2112/3840 DMEM: 16/96768)
+
+SCENARIO [18x22]
+---> (CMEM: 2376/3840 DMEM: 16/96768)
+
+SCENARIO [20x22]
+---> (CMEM: 2640/3840 DMEM: 16/96768)
+
+SCENARIO [22x22]
+---> (CMEM: 2904/3840 DMEM: 16/96768)
+
+SCENARIO [24x22]
+---> (CMEM: 3168/3840 DMEM: 16/96768)
+
+SCENARIO [26x22]
+---> (CMEM: 3432/3840 DMEM: 16/96768)
+
+SCENARIO [28x22]
+---> (CMEM: 3696/3840 DMEM: 16/96768)
+
+SCENARIO [2x24]
+---> (CMEM: 288/3840 DMEM: 16/96768)
+
+SCENARIO [4x24]
+---> (CMEM: 576/3840 DMEM: 16/96768)
+
+SCENARIO [6x24]
+---> (CMEM: 864/3840 DMEM: 16/96768)
+
+SCENARIO [8x24]
+---> (CMEM: 1152/3840 DMEM: 16/96768)
+
+SCENARIO [10x24]
+---> (CMEM: 1440/3840 DMEM: 16/96768)
+
+SCENARIO [12x24]
+---> (CMEM: 1728/3840 DMEM: 16/96768)
+
+SCENARIO [14x24]
+---> (CMEM: 2016/3840 DMEM: 16/96768)
+
+SCENARIO [16x24]
+---> (CMEM: 2304/3840 DMEM: 16/96768)
+
+SCENARIO [18x24]
+---> (CMEM: 2592/3840 DMEM: 16/96768)
+
+SCENARIO [20x24]
+---> (CMEM: 2880/3840 DMEM: 16/96768)
+
+SCENARIO [22x24]
+---> (CMEM: 3168/3840 DMEM: 16/96768)
+
+SCENARIO [24x24]
+---> (CMEM: 3456/3840 DMEM: 16/96768)
+
+SCENARIO [26x24]
+---> (CMEM: 3744/3840 DMEM: 16/96768)
+
+SCENARIO [2x26]
+---> (CMEM: 312/3840 DMEM: 16/96768)
+
+SCENARIO [4x26]
+---> (CMEM: 624/3840 DMEM: 16/96768)
+
+SCENARIO [6x26]
+---> (CMEM: 936/3840 DMEM: 16/96768)
+
+SCENARIO [8x26]
+---> (CMEM: 1248/3840 DMEM: 16/96768)
+
+SCENARIO [10x26]
+---> (CMEM: 1560/3840 DMEM: 16/96768)
+
+SCENARIO [12x26]
+---> (CMEM: 1872/3840 DMEM: 16/96768)
+
+SCENARIO [14x26]
+---> (CMEM: 2184/3840 DMEM: 16/96768)
+
+SCENARIO [16x26]
+---> (CMEM: 2496/3840 DMEM: 16/96768)
+
+SCENARIO [18x26]
+---> (CMEM: 2808/3840 DMEM: 16/96768)
+
+SCENARIO [20x26]
+---> (CMEM: 3120/3840 DMEM: 16/96768)
+
+SCENARIO [22x26]
+---> (CMEM: 3432/3840 DMEM: 16/96768)
+
+SCENARIO [24x26]
+---> (CMEM: 3744/3840 DMEM: 16/96768)
+
+SCENARIO [2x28]
+---> (CMEM: 336/3840 DMEM: 16/96768)
+
+SCENARIO [4x28]
+---> (CMEM: 672/3840 DMEM: 16/96768)
+
+SCENARIO [6x28]
+---> (CMEM: 1008/3840 DMEM: 16/96768)
+
+SCENARIO [8x28]
+---> (CMEM: 1344/3840 DMEM: 16/96768)
+
+SCENARIO [10x28]
+---> (CMEM: 1680/3840 DMEM: 16/96768)
+
+SCENARIO [12x28]
+---> (CMEM: 2016/3840 DMEM: 16/96768)
+
+SCENARIO [14x28]
+---> (CMEM: 2352/3840 DMEM: 16/96768)
+
+SCENARIO [16x28]
+---> (CMEM: 2688/3840 DMEM: 16/96768)
+
+SCENARIO [18x28]
+---> (CMEM: 3024/3840 DMEM: 16/96768)
+
+SCENARIO [20x28]
+---> (CMEM: 3360/3840 DMEM: 16/96768)
+
+SCENARIO [22x28]
+---> (CMEM: 3696/3840 DMEM: 16/96768)
+
+SCENARIO [2x30]
+---> (CMEM: 360/3840 DMEM: 16/96768)
+
+SCENARIO [4x30]
+---> (CMEM: 720/3840 DMEM: 16/96768)
+
+SCENARIO [6x30]
+---> (CMEM: 1080/3840 DMEM: 16/96768)
+
+SCENARIO [8x30]
+---> (CMEM: 1440/3840 DMEM: 16/96768)
+
+SCENARIO [10x30]
+---> (CMEM: 1800/3840 DMEM: 16/96768)
+
+SCENARIO [12x30]
+---> (CMEM: 2160/3840 DMEM: 16/96768)
+
+SCENARIO [14x30]
+---> (CMEM: 2520/3840 DMEM: 16/96768)
+
+SCENARIO [16x30]
+---> (CMEM: 2880/3840 DMEM: 16/96768)
+
+SCENARIO [18x30]
+---> (CMEM: 3240/3840 DMEM: 16/96768)
+
+SCENARIO [20x30]
+---> (CMEM: 3600/3840 DMEM: 16/96768)
+
+SCENARIO [2x32]
+---> (CMEM: 384/3840 DMEM: 16/96768)
+
+SCENARIO [4x32]
+---> (CMEM: 768/3840 DMEM: 16/96768)
+
+SCENARIO [6x32]
+---> (CMEM: 1152/3840 DMEM: 16/96768)
+
+SCENARIO [8x32]
+---> (CMEM: 1536/3840 DMEM: 16/96768)
+
+SCENARIO [10x32]
+---> (CMEM: 1920/3840 DMEM: 16/96768)
+
+SCENARIO [12x32]
+---> (CMEM: 2304/3840 DMEM: 16/96768)
+
+SCENARIO [14x32]
+---> (CMEM: 2688/3840 DMEM: 16/96768)
+
+SCENARIO [16x32]
+---> (CMEM: 3072/3840 DMEM: 16/96768)
+
+SCENARIO [18x32]
+---> (CMEM: 3456/3840 DMEM: 16/96768)
+
+SCENARIO [20x32]
+---> (CMEM: 3840/3840 DMEM: 16/96768)
+
+
+************************************************************************
+NON-VIABLE SCENARIOS (513/912)
+************************************************************************
+
+SCENARIO [1x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x1) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x1) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x1) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x1) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x1) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x1) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x1) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x1) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x1) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x1) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x1) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x1) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x1) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [27x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x1) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [29x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x1) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [31x1]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x1) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [1x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x2) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x2) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x2) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x2) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x2) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x2) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x2) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x2) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x2) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x2) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x2) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x2) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x2) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [27x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x2) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [29x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x2) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [31x2]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x2) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [1x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x3) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x3) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x3) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x3) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x3) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x3) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x3) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x3) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x3) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x3) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x3) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x3) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x3) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [27x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x3) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [29x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x3) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [31x3]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x3) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [1x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x4) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x4) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x4) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x4) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x4) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x4) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x4) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x4) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x4) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x4) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x4) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x4) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x4) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [27x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x4) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [29x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x4) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [31x4]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x4) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [1x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x5) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x5) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x5) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x5) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x5) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x5) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x5) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x5) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x5) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x5) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x5) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x5) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x5) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [27x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x5) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [29x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x5) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [31x5]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x5) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [1x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x6) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x6) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x6) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x6) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x6) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x6) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x6) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x6) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x6) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x6) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x6) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x6) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x6) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [27x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x6) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [29x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x6) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [31x6]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x6) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [112x6]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (112x6) overflows available APEX memory resources (CMEM: 4032/3840 DMEM: 16/96768)
+
+SCENARIO [120x6]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (120x6) overflows available APEX memory resources (CMEM: 4320/3840 DMEM: 16/96768)
+
+SCENARIO [128x6]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (128x6) overflows available APEX memory resources (CMEM: 4608/3840 DMEM: 16/96768)
+
+SCENARIO [1x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x8) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x8) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x8) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x8) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x8) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x8) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x8) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x8) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x8) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x8) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x8) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x8) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x8) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [27x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x8) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [29x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x8) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [31x8]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x8) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [88x8]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (88x8) overflows available APEX memory resources (CMEM: 4224/3840 DMEM: 16/96768)
+
+SCENARIO [96x8]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (96x8) overflows available APEX memory resources (CMEM: 4608/3840 DMEM: 16/96768)
+
+SCENARIO [104x8]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (104x8) overflows available APEX memory resources (CMEM: 4992/3840 DMEM: 16/96768)
+
+SCENARIO [112x8]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (112x8) overflows available APEX memory resources (CMEM: 5376/3840 DMEM: 16/96768)
+
+SCENARIO [120x8]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (120x8) overflows available APEX memory resources (CMEM: 5760/3840 DMEM: 16/96768)
+
+SCENARIO [128x8]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (128x8) overflows available APEX memory resources (CMEM: 6144/3840 DMEM: 16/96768)
+
+SCENARIO [1x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x10) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x10) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x10) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x10) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x10) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x10) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x10) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x10) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x10) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x10) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x10) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x10) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x10) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [27x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x10) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [29x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x10) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [31x10]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x10) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [72x10]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (72x10) overflows available APEX memory resources (CMEM: 4320/3840 DMEM: 16/96768)
+
+SCENARIO [80x10]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (80x10) overflows available APEX memory resources (CMEM: 4800/3840 DMEM: 16/96768)
+
+SCENARIO [88x10]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (88x10) overflows available APEX memory resources (CMEM: 5280/3840 DMEM: 16/96768)
+
+SCENARIO [96x10]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (96x10) overflows available APEX memory resources (CMEM: 5760/3840 DMEM: 16/96768)
+
+SCENARIO [104x10]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (104x10) overflows available APEX memory resources (CMEM: 6240/3840 DMEM: 16/96768)
+
+SCENARIO [112x10]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (112x10) overflows available APEX memory resources (CMEM: 6720/3840 DMEM: 16/96768)
+
+SCENARIO [120x10]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (120x10) overflows available APEX memory resources (CMEM: 7200/3840 DMEM: 16/96768)
+
+SCENARIO [128x10]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (128x10) overflows available APEX memory resources (CMEM: 7680/3840 DMEM: 16/96768)
+
+SCENARIO [1x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x12) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x12) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x12) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x12) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x12) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x12) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x12) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x12) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x12) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x12) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x12) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x12) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x12) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [27x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x12) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [29x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x12) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [31x12]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x12) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [56x12]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (56x12) overflows available APEX memory resources (CMEM: 4032/3840 DMEM: 16/96768)
+
+SCENARIO [60x12]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (60x12) overflows available APEX memory resources (CMEM: 4320/3840 DMEM: 16/96768)
+
+SCENARIO [64x12]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (64x12) overflows available APEX memory resources (CMEM: 4608/3840 DMEM: 16/96768)
+
+SCENARIO [72x12]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (72x12) overflows available APEX memory resources (CMEM: 5184/3840 DMEM: 16/96768)
+
+SCENARIO [80x12]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (80x12) overflows available APEX memory resources (CMEM: 5760/3840 DMEM: 16/96768)
+
+SCENARIO [88x12]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (88x12) overflows available APEX memory resources (CMEM: 6336/3840 DMEM: 16/96768)
+
+SCENARIO [96x12]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (96x12) overflows available APEX memory resources (CMEM: 6912/3840 DMEM: 16/96768)
+
+SCENARIO [104x12]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (104x12) overflows available APEX memory resources (CMEM: 7488/3840 DMEM: 16/96768)
+
+SCENARIO [112x12]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (112x12) overflows available APEX memory resources (CMEM: 8064/3840 DMEM: 16/96768)
+
+SCENARIO [120x12]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (120x12) overflows available APEX memory resources (CMEM: 8640/3840 DMEM: 16/96768)
+
+SCENARIO [128x12]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (128x12) overflows available APEX memory resources (CMEM: 9216/3840 DMEM: 16/96768)
+
+SCENARIO [1x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x14) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x14) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x14) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x14) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x14) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x14) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x14) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x14) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x14) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x14) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x14) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x14) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x14) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [27x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x14) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [29x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x14) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [31x14]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x14) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [48x14]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (48x14) overflows available APEX memory resources (CMEM: 4032/3840 DMEM: 16/96768)
+
+SCENARIO [52x14]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (52x14) overflows available APEX memory resources (CMEM: 4368/3840 DMEM: 16/96768)
+
+SCENARIO [56x14]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (56x14) overflows available APEX memory resources (CMEM: 4704/3840 DMEM: 16/96768)
+
+SCENARIO [60x14]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (60x14) overflows available APEX memory resources (CMEM: 5040/3840 DMEM: 16/96768)
+
+SCENARIO [64x14]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (64x14) overflows available APEX memory resources (CMEM: 5376/3840 DMEM: 16/96768)
+
+SCENARIO [72x14]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (72x14) overflows available APEX memory resources (CMEM: 6048/3840 DMEM: 16/96768)
+
+SCENARIO [80x14]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (80x14) overflows available APEX memory resources (CMEM: 6720/3840 DMEM: 16/96768)
+
+SCENARIO [88x14]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (88x14) overflows available APEX memory resources (CMEM: 7392/3840 DMEM: 16/96768)
+
+SCENARIO [96x14]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (96x14) overflows available APEX memory resources (CMEM: 8064/3840 DMEM: 16/96768)
+
+SCENARIO [104x14]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (104x14) overflows available APEX memory resources (CMEM: 8736/3840 DMEM: 16/96768)
+
+SCENARIO [112x14]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (112x14) overflows available APEX memory resources (CMEM: 9408/3840 DMEM: 16/96768)
+
+SCENARIO [120x14]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (120x14) overflows available APEX memory resources (CMEM: 10080/3840 DMEM: 16/96768)
+
+SCENARIO [128x14]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (128x14) overflows available APEX memory resources (CMEM: 10752/3840 DMEM: 16/96768)
+
+SCENARIO [1x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x16) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x16) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x16) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x16) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x16) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x16) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x16) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x16) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x16) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x16) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x16) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x16) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x16) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [27x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x16) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [29x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x16) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [31x16]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x16) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [44x16]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (44x16) overflows available APEX memory resources (CMEM: 4224/3840 DMEM: 16/96768)
+
+SCENARIO [48x16]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (48x16) overflows available APEX memory resources (CMEM: 4608/3840 DMEM: 16/96768)
+
+SCENARIO [52x16]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (52x16) overflows available APEX memory resources (CMEM: 4992/3840 DMEM: 16/96768)
+
+SCENARIO [56x16]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (56x16) overflows available APEX memory resources (CMEM: 5376/3840 DMEM: 16/96768)
+
+SCENARIO [60x16]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (60x16) overflows available APEX memory resources (CMEM: 5760/3840 DMEM: 16/96768)
+
+SCENARIO [64x16]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (64x16) overflows available APEX memory resources (CMEM: 6144/3840 DMEM: 16/96768)
+
+SCENARIO [72x16]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (72x16) overflows available APEX memory resources (CMEM: 6912/3840 DMEM: 16/96768)
+
+SCENARIO [80x16]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (80x16) overflows available APEX memory resources (CMEM: 7680/3840 DMEM: 16/96768)
+
+SCENARIO [88x16]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (88x16) overflows available APEX memory resources (CMEM: 8448/3840 DMEM: 16/96768)
+
+SCENARIO [96x16]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (96x16) overflows available APEX memory resources (CMEM: 9216/3840 DMEM: 16/96768)
+
+SCENARIO [104x16]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (104x16) overflows available APEX memory resources (CMEM: 9984/3840 DMEM: 16/96768)
+
+SCENARIO [112x16]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (112x16) overflows available APEX memory resources (CMEM: 10752/3840 DMEM: 16/96768)
+
+SCENARIO [120x16]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (120x16) overflows available APEX memory resources (CMEM: 11520/3840 DMEM: 16/96768)
+
+SCENARIO [128x16]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (128x16) overflows available APEX memory resources (CMEM: 12288/3840 DMEM: 16/96768)
+
+SCENARIO [1x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x18) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x18) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x18) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x18) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x18) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x18) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x18) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x18) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x18) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x18) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x18) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x18) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x18) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [27x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x18) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [29x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x18) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [31x18]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x18) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [36x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (36x18) overflows available APEX memory resources (CMEM: 3888/3840 DMEM: 16/96768)
+
+SCENARIO [40x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (40x18) overflows available APEX memory resources (CMEM: 4320/3840 DMEM: 16/96768)
+
+SCENARIO [44x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (44x18) overflows available APEX memory resources (CMEM: 4752/3840 DMEM: 16/96768)
+
+SCENARIO [48x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (48x18) overflows available APEX memory resources (CMEM: 5184/3840 DMEM: 16/96768)
+
+SCENARIO [52x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (52x18) overflows available APEX memory resources (CMEM: 5616/3840 DMEM: 16/96768)
+
+SCENARIO [56x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (56x18) overflows available APEX memory resources (CMEM: 6048/3840 DMEM: 16/96768)
+
+SCENARIO [60x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (60x18) overflows available APEX memory resources (CMEM: 6480/3840 DMEM: 16/96768)
+
+SCENARIO [64x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (64x18) overflows available APEX memory resources (CMEM: 6912/3840 DMEM: 16/96768)
+
+SCENARIO [72x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (72x18) overflows available APEX memory resources (CMEM: 7776/3840 DMEM: 16/96768)
+
+SCENARIO [80x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (80x18) overflows available APEX memory resources (CMEM: 8640/3840 DMEM: 16/96768)
+
+SCENARIO [88x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (88x18) overflows available APEX memory resources (CMEM: 9504/3840 DMEM: 16/96768)
+
+SCENARIO [96x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (96x18) overflows available APEX memory resources (CMEM: 10368/3840 DMEM: 16/96768)
+
+SCENARIO [104x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (104x18) overflows available APEX memory resources (CMEM: 11232/3840 DMEM: 16/96768)
+
+SCENARIO [112x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (112x18) overflows available APEX memory resources (CMEM: 12096/3840 DMEM: 16/96768)
+
+SCENARIO [120x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (120x18) overflows available APEX memory resources (CMEM: 12960/3840 DMEM: 16/96768)
+
+SCENARIO [128x18]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (128x18) overflows available APEX memory resources (CMEM: 13824/3840 DMEM: 16/96768)
+
+SCENARIO [1x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x20) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x20) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x20) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x20) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x20) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x20) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x20) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x20) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x20) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x20) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x20) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x20) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x20) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [27x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x20) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [29x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x20) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [31x20]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x20) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [36x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (36x20) overflows available APEX memory resources (CMEM: 4320/3840 DMEM: 16/96768)
+
+SCENARIO [40x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (40x20) overflows available APEX memory resources (CMEM: 4800/3840 DMEM: 16/96768)
+
+SCENARIO [44x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (44x20) overflows available APEX memory resources (CMEM: 5280/3840 DMEM: 16/96768)
+
+SCENARIO [48x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (48x20) overflows available APEX memory resources (CMEM: 5760/3840 DMEM: 16/96768)
+
+SCENARIO [52x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (52x20) overflows available APEX memory resources (CMEM: 6240/3840 DMEM: 16/96768)
+
+SCENARIO [56x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (56x20) overflows available APEX memory resources (CMEM: 6720/3840 DMEM: 16/96768)
+
+SCENARIO [60x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (60x20) overflows available APEX memory resources (CMEM: 7200/3840 DMEM: 16/96768)
+
+SCENARIO [64x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (64x20) overflows available APEX memory resources (CMEM: 7680/3840 DMEM: 16/96768)
+
+SCENARIO [72x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (72x20) overflows available APEX memory resources (CMEM: 8640/3840 DMEM: 16/96768)
+
+SCENARIO [80x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (80x20) overflows available APEX memory resources (CMEM: 9600/3840 DMEM: 16/96768)
+
+SCENARIO [88x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (88x20) overflows available APEX memory resources (CMEM: 10560/3840 DMEM: 16/96768)
+
+SCENARIO [96x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (96x20) overflows available APEX memory resources (CMEM: 11520/3840 DMEM: 16/96768)
+
+SCENARIO [104x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (104x20) overflows available APEX memory resources (CMEM: 12480/3840 DMEM: 16/96768)
+
+SCENARIO [112x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (112x20) overflows available APEX memory resources (CMEM: 13440/3840 DMEM: 16/96768)
+
+SCENARIO [120x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (120x20) overflows available APEX memory resources (CMEM: 14400/3840 DMEM: 16/96768)
+
+SCENARIO [128x20]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (128x20) overflows available APEX memory resources (CMEM: 15360/3840 DMEM: 16/96768)
+
+SCENARIO [1x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x22) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x22) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x22) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x22) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x22) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x22) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x22) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x22) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x22) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x22) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x22) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x22) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x22) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [27x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x22) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [29x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x22) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [30x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (30x22) overflows available APEX memory resources (CMEM: 3960/3840 DMEM: 16/96768)
+
+SCENARIO [31x22]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x22) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [32x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (32x22) overflows available APEX memory resources (CMEM: 4224/3840 DMEM: 16/96768)
+
+SCENARIO [36x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (36x22) overflows available APEX memory resources (CMEM: 4752/3840 DMEM: 16/96768)
+
+SCENARIO [40x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (40x22) overflows available APEX memory resources (CMEM: 5280/3840 DMEM: 16/96768)
+
+SCENARIO [44x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (44x22) overflows available APEX memory resources (CMEM: 5808/3840 DMEM: 16/96768)
+
+SCENARIO [48x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (48x22) overflows available APEX memory resources (CMEM: 6336/3840 DMEM: 16/96768)
+
+SCENARIO [52x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (52x22) overflows available APEX memory resources (CMEM: 6864/3840 DMEM: 16/96768)
+
+SCENARIO [56x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (56x22) overflows available APEX memory resources (CMEM: 7392/3840 DMEM: 16/96768)
+
+SCENARIO [60x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (60x22) overflows available APEX memory resources (CMEM: 7920/3840 DMEM: 16/96768)
+
+SCENARIO [64x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (64x22) overflows available APEX memory resources (CMEM: 8448/3840 DMEM: 16/96768)
+
+SCENARIO [72x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (72x22) overflows available APEX memory resources (CMEM: 9504/3840 DMEM: 16/96768)
+
+SCENARIO [80x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (80x22) overflows available APEX memory resources (CMEM: 10560/3840 DMEM: 16/96768)
+
+SCENARIO [88x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (88x22) overflows available APEX memory resources (CMEM: 11616/3840 DMEM: 16/96768)
+
+SCENARIO [96x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (96x22) overflows available APEX memory resources (CMEM: 12672/3840 DMEM: 16/96768)
+
+SCENARIO [104x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (104x22) overflows available APEX memory resources (CMEM: 13728/3840 DMEM: 16/96768)
+
+SCENARIO [112x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (112x22) overflows available APEX memory resources (CMEM: 14784/3840 DMEM: 16/96768)
+
+SCENARIO [120x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (120x22) overflows available APEX memory resources (CMEM: 15840/3840 DMEM: 16/96768)
+
+SCENARIO [128x22]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (128x22) overflows available APEX memory resources (CMEM: 16896/3840 DMEM: 16/96768)
+
+SCENARIO [1x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x24) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x24) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x24) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x24) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x24) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x24) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x24) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x24) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x24) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x24) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x24) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x24) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x24) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [27x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x24) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [28x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (28x24) overflows available APEX memory resources (CMEM: 4032/3840 DMEM: 16/96768)
+
+SCENARIO [29x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x24) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [30x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (30x24) overflows available APEX memory resources (CMEM: 4320/3840 DMEM: 16/96768)
+
+SCENARIO [31x24]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x24) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [32x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (32x24) overflows available APEX memory resources (CMEM: 4608/3840 DMEM: 16/96768)
+
+SCENARIO [36x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (36x24) overflows available APEX memory resources (CMEM: 5184/3840 DMEM: 16/96768)
+
+SCENARIO [40x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (40x24) overflows available APEX memory resources (CMEM: 5760/3840 DMEM: 16/96768)
+
+SCENARIO [44x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (44x24) overflows available APEX memory resources (CMEM: 6336/3840 DMEM: 16/96768)
+
+SCENARIO [48x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (48x24) overflows available APEX memory resources (CMEM: 6912/3840 DMEM: 16/96768)
+
+SCENARIO [52x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (52x24) overflows available APEX memory resources (CMEM: 7488/3840 DMEM: 16/96768)
+
+SCENARIO [56x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (56x24) overflows available APEX memory resources (CMEM: 8064/3840 DMEM: 16/96768)
+
+SCENARIO [60x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (60x24) overflows available APEX memory resources (CMEM: 8640/3840 DMEM: 16/96768)
+
+SCENARIO [64x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (64x24) overflows available APEX memory resources (CMEM: 9216/3840 DMEM: 16/96768)
+
+SCENARIO [72x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (72x24) overflows available APEX memory resources (CMEM: 10368/3840 DMEM: 16/96768)
+
+SCENARIO [80x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (80x24) overflows available APEX memory resources (CMEM: 11520/3840 DMEM: 16/96768)
+
+SCENARIO [88x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (88x24) overflows available APEX memory resources (CMEM: 12672/3840 DMEM: 16/96768)
+
+SCENARIO [96x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (96x24) overflows available APEX memory resources (CMEM: 13824/3840 DMEM: 16/96768)
+
+SCENARIO [104x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (104x24) overflows available APEX memory resources (CMEM: 14976/3840 DMEM: 16/96768)
+
+SCENARIO [112x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (112x24) overflows available APEX memory resources (CMEM: 16128/3840 DMEM: 16/96768)
+
+SCENARIO [120x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (120x24) overflows available APEX memory resources (CMEM: 17280/3840 DMEM: 16/96768)
+
+SCENARIO [128x24]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (128x24) overflows available APEX memory resources (CMEM: 18432/3840 DMEM: 16/96768)
+
+SCENARIO [1x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x26) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x26) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x26) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x26) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x26) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x26) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x26) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x26) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x26) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x26) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x26) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x26) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [25x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x26) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [26x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (26x26) overflows available APEX memory resources (CMEM: 4056/3840 DMEM: 16/96768)
+
+SCENARIO [27x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x26) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [28x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (28x26) overflows available APEX memory resources (CMEM: 4368/3840 DMEM: 16/96768)
+
+SCENARIO [29x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x26) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [30x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (30x26) overflows available APEX memory resources (CMEM: 4680/3840 DMEM: 16/96768)
+
+SCENARIO [31x26]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x26) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [32x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (32x26) overflows available APEX memory resources (CMEM: 4992/3840 DMEM: 16/96768)
+
+SCENARIO [36x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (36x26) overflows available APEX memory resources (CMEM: 5616/3840 DMEM: 16/96768)
+
+SCENARIO [40x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (40x26) overflows available APEX memory resources (CMEM: 6240/3840 DMEM: 16/96768)
+
+SCENARIO [44x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (44x26) overflows available APEX memory resources (CMEM: 6864/3840 DMEM: 16/96768)
+
+SCENARIO [48x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (48x26) overflows available APEX memory resources (CMEM: 7488/3840 DMEM: 16/96768)
+
+SCENARIO [52x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (52x26) overflows available APEX memory resources (CMEM: 8112/3840 DMEM: 16/96768)
+
+SCENARIO [56x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (56x26) overflows available APEX memory resources (CMEM: 8736/3840 DMEM: 16/96768)
+
+SCENARIO [60x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (60x26) overflows available APEX memory resources (CMEM: 9360/3840 DMEM: 16/96768)
+
+SCENARIO [64x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (64x26) overflows available APEX memory resources (CMEM: 9984/3840 DMEM: 16/96768)
+
+SCENARIO [72x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (72x26) overflows available APEX memory resources (CMEM: 11232/3840 DMEM: 16/96768)
+
+SCENARIO [80x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (80x26) overflows available APEX memory resources (CMEM: 12480/3840 DMEM: 16/96768)
+
+SCENARIO [88x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (88x26) overflows available APEX memory resources (CMEM: 13728/3840 DMEM: 16/96768)
+
+SCENARIO [96x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (96x26) overflows available APEX memory resources (CMEM: 14976/3840 DMEM: 16/96768)
+
+SCENARIO [104x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (104x26) overflows available APEX memory resources (CMEM: 16224/3840 DMEM: 16/96768)
+
+SCENARIO [112x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (112x26) overflows available APEX memory resources (CMEM: 17472/3840 DMEM: 16/96768)
+
+SCENARIO [120x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (120x26) overflows available APEX memory resources (CMEM: 18720/3840 DMEM: 16/96768)
+
+SCENARIO [128x26]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (128x26) overflows available APEX memory resources (CMEM: 19968/3840 DMEM: 16/96768)
+
+SCENARIO [1x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x28) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x28) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x28) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x28) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x28) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x28) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x28) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x28) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x28) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x28) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x28) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [23x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x28) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [24x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (24x28) overflows available APEX memory resources (CMEM: 4032/3840 DMEM: 16/96768)
+
+SCENARIO [25x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x28) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [26x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (26x28) overflows available APEX memory resources (CMEM: 4368/3840 DMEM: 16/96768)
+
+SCENARIO [27x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x28) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [28x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (28x28) overflows available APEX memory resources (CMEM: 4704/3840 DMEM: 16/96768)
+
+SCENARIO [29x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x28) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [30x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (30x28) overflows available APEX memory resources (CMEM: 5040/3840 DMEM: 16/96768)
+
+SCENARIO [31x28]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x28) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [32x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (32x28) overflows available APEX memory resources (CMEM: 5376/3840 DMEM: 16/96768)
+
+SCENARIO [36x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (36x28) overflows available APEX memory resources (CMEM: 6048/3840 DMEM: 16/96768)
+
+SCENARIO [40x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (40x28) overflows available APEX memory resources (CMEM: 6720/3840 DMEM: 16/96768)
+
+SCENARIO [44x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (44x28) overflows available APEX memory resources (CMEM: 7392/3840 DMEM: 16/96768)
+
+SCENARIO [48x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (48x28) overflows available APEX memory resources (CMEM: 8064/3840 DMEM: 16/96768)
+
+SCENARIO [52x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (52x28) overflows available APEX memory resources (CMEM: 8736/3840 DMEM: 16/96768)
+
+SCENARIO [56x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (56x28) overflows available APEX memory resources (CMEM: 9408/3840 DMEM: 16/96768)
+
+SCENARIO [60x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (60x28) overflows available APEX memory resources (CMEM: 10080/3840 DMEM: 16/96768)
+
+SCENARIO [64x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (64x28) overflows available APEX memory resources (CMEM: 10752/3840 DMEM: 16/96768)
+
+SCENARIO [72x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (72x28) overflows available APEX memory resources (CMEM: 12096/3840 DMEM: 16/96768)
+
+SCENARIO [80x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (80x28) overflows available APEX memory resources (CMEM: 13440/3840 DMEM: 16/96768)
+
+SCENARIO [88x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (88x28) overflows available APEX memory resources (CMEM: 14784/3840 DMEM: 16/96768)
+
+SCENARIO [96x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (96x28) overflows available APEX memory resources (CMEM: 16128/3840 DMEM: 16/96768)
+
+SCENARIO [104x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (104x28) overflows available APEX memory resources (CMEM: 17472/3840 DMEM: 16/96768)
+
+SCENARIO [112x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (112x28) overflows available APEX memory resources (CMEM: 18816/3840 DMEM: 16/96768)
+
+SCENARIO [120x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (120x28) overflows available APEX memory resources (CMEM: 20160/3840 DMEM: 16/96768)
+
+SCENARIO [128x28]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (128x28) overflows available APEX memory resources (CMEM: 21504/3840 DMEM: 16/96768)
+
+SCENARIO [1x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x30) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x30) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x30) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x30) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x30) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x30) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x30) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x30) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x30) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x30) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x30) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [22x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (22x30) overflows available APEX memory resources (CMEM: 3960/3840 DMEM: 16/96768)
+
+SCENARIO [23x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x30) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [24x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (24x30) overflows available APEX memory resources (CMEM: 4320/3840 DMEM: 16/96768)
+
+SCENARIO [25x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x30) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [26x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (26x30) overflows available APEX memory resources (CMEM: 4680/3840 DMEM: 16/96768)
+
+SCENARIO [27x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x30) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [28x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (28x30) overflows available APEX memory resources (CMEM: 5040/3840 DMEM: 16/96768)
+
+SCENARIO [29x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x30) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [30x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (30x30) overflows available APEX memory resources (CMEM: 5400/3840 DMEM: 16/96768)
+
+SCENARIO [31x30]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x30) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [32x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (32x30) overflows available APEX memory resources (CMEM: 5760/3840 DMEM: 16/96768)
+
+SCENARIO [36x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (36x30) overflows available APEX memory resources (CMEM: 6480/3840 DMEM: 16/96768)
+
+SCENARIO [40x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (40x30) overflows available APEX memory resources (CMEM: 7200/3840 DMEM: 16/96768)
+
+SCENARIO [44x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (44x30) overflows available APEX memory resources (CMEM: 7920/3840 DMEM: 16/96768)
+
+SCENARIO [48x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (48x30) overflows available APEX memory resources (CMEM: 8640/3840 DMEM: 16/96768)
+
+SCENARIO [52x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (52x30) overflows available APEX memory resources (CMEM: 9360/3840 DMEM: 16/96768)
+
+SCENARIO [56x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (56x30) overflows available APEX memory resources (CMEM: 10080/3840 DMEM: 16/96768)
+
+SCENARIO [60x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (60x30) overflows available APEX memory resources (CMEM: 10800/3840 DMEM: 16/96768)
+
+SCENARIO [64x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (64x30) overflows available APEX memory resources (CMEM: 11520/3840 DMEM: 16/96768)
+
+SCENARIO [72x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (72x30) overflows available APEX memory resources (CMEM: 12960/3840 DMEM: 16/96768)
+
+SCENARIO [80x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (80x30) overflows available APEX memory resources (CMEM: 14400/3840 DMEM: 16/96768)
+
+SCENARIO [88x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (88x30) overflows available APEX memory resources (CMEM: 15840/3840 DMEM: 16/96768)
+
+SCENARIO [96x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (96x30) overflows available APEX memory resources (CMEM: 17280/3840 DMEM: 16/96768)
+
+SCENARIO [104x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (104x30) overflows available APEX memory resources (CMEM: 18720/3840 DMEM: 16/96768)
+
+SCENARIO [112x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (112x30) overflows available APEX memory resources (CMEM: 20160/3840 DMEM: 16/96768)
+
+SCENARIO [120x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (120x30) overflows available APEX memory resources (CMEM: 21600/3840 DMEM: 16/96768)
+
+SCENARIO [128x30]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (128x30) overflows available APEX memory resources (CMEM: 23040/3840 DMEM: 16/96768)
+
+SCENARIO [1x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (1x32) for port 'Template_Demo_InputA' results in a chunk width of 1 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [3x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (3x32) for port 'Template_Demo_InputA' results in a chunk width of 3 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [5x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (5x32) for port 'Template_Demo_InputA' results in a chunk width of 5 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [7x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (7x32) for port 'Template_Demo_InputA' results in a chunk width of 7 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [9x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (9x32) for port 'Template_Demo_InputA' results in a chunk width of 9 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [11x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (11x32) for port 'Template_Demo_InputA' results in a chunk width of 11 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [13x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (13x32) for port 'Template_Demo_InputA' results in a chunk width of 13 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [15x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (15x32) for port 'Template_Demo_InputA' results in a chunk width of 15 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [17x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (17x32) for port 'Template_Demo_InputA' results in a chunk width of 17 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [19x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (19x32) for port 'Template_Demo_InputA' results in a chunk width of 19 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [21x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (21x32) for port 'Template_Demo_InputA' results in a chunk width of 21 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [22x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (22x32) overflows available APEX memory resources (CMEM: 4224/3840 DMEM: 16/96768)
+
+SCENARIO [23x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (23x32) for port 'Template_Demo_InputA' results in a chunk width of 23 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [24x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (24x32) overflows available APEX memory resources (CMEM: 4608/3840 DMEM: 16/96768)
+
+SCENARIO [25x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (25x32) for port 'Template_Demo_InputA' results in a chunk width of 25 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [26x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (26x32) overflows available APEX memory resources (CMEM: 4992/3840 DMEM: 16/96768)
+
+SCENARIO [27x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (27x32) for port 'Template_Demo_InputA' results in a chunk width of 27 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [28x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (28x32) overflows available APEX memory resources (CMEM: 5376/3840 DMEM: 16/96768)
+
+SCENARIO [29x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (29x32) for port 'Template_Demo_InputA' results in a chunk width of 29 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [30x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (30x32) overflows available APEX memory resources (CMEM: 5760/3840 DMEM: 16/96768)
+
+SCENARIO [31x32]
+ACF_Process_Desc_APU::Resolve() -> Input chunk dimensions (31x32) for port 'Template_Demo_InputA' results in a chunk width of 31 byte(s); DMA+STREAM HW limitations dictate that the chunk width (in bytes) be one of the following values: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 40, 44, 48, 52, 56, 60, 64, 72, 80, 88, 96, 104, 112, 120, 128]
+
+SCENARIO [32x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (32x32) overflows available APEX memory resources (CMEM: 6144/3840 DMEM: 16/96768)
+
+SCENARIO [36x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (36x32) overflows available APEX memory resources (CMEM: 6912/3840 DMEM: 16/96768)
+
+SCENARIO [40x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (40x32) overflows available APEX memory resources (CMEM: 7680/3840 DMEM: 16/96768)
+
+SCENARIO [44x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (44x32) overflows available APEX memory resources (CMEM: 8448/3840 DMEM: 16/96768)
+
+SCENARIO [48x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (48x32) overflows available APEX memory resources (CMEM: 9216/3840 DMEM: 16/96768)
+
+SCENARIO [52x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (52x32) overflows available APEX memory resources (CMEM: 9984/3840 DMEM: 16/96768)
+
+SCENARIO [56x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (56x32) overflows available APEX memory resources (CMEM: 10752/3840 DMEM: 16/96768)
+
+SCENARIO [60x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (60x32) overflows available APEX memory resources (CMEM: 11520/3840 DMEM: 16/96768)
+
+SCENARIO [64x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (64x32) overflows available APEX memory resources (CMEM: 12288/3840 DMEM: 16/96768)
+
+SCENARIO [72x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (72x32) overflows available APEX memory resources (CMEM: 13824/3840 DMEM: 16/96768)
+
+SCENARIO [80x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (80x32) overflows available APEX memory resources (CMEM: 15360/3840 DMEM: 16/96768)
+
+SCENARIO [88x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (88x32) overflows available APEX memory resources (CMEM: 16896/3840 DMEM: 16/96768)
+
+SCENARIO [96x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (96x32) overflows available APEX memory resources (CMEM: 18432/3840 DMEM: 16/96768)
+
+SCENARIO [104x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (104x32) overflows available APEX memory resources (CMEM: 19968/3840 DMEM: 16/96768)
+
+SCENARIO [112x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (112x32) overflows available APEX memory resources (CMEM: 21504/3840 DMEM: 16/96768)
+
+SCENARIO [120x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (120x32) overflows available APEX memory resources (CMEM: 23040/3840 DMEM: 16/96768)
+
+SCENARIO [128x32]
+ACF_Process_Desc_APU::AnalyzeAndResolve() -> Resolving graph 'APU_ADD' with base chunk size (128x32) overflows available APEX memory resources (CMEM: 24576/3840 DMEM: 16/96768)
+
+

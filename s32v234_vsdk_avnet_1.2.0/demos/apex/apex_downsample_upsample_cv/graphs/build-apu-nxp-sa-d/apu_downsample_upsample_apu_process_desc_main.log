@@ -1,0 +1,4 @@
+Registering kernel 'apu_downsample'
+Registering kernel 'apu_downsample_16u'
+Registering kernel 'apu_downsample_gauss'
+Registering kernel 'apu_upsample'

@@ -1,0 +1,23 @@
+# IPUS 
+# gamma correction, raw12bit to rgb888
+# gamma lookup table: 4096
+# 1 line input is needed
+# out0 : output r, g, b
+
+.global raw12_to_rgb888_gamma_start
+raw12_to_rgb888_gamma_start:
+	// configure ALU
+    // mov confalu,(0 /*unsigned*/ | (1<<1) /*saturate*/ | (14<<4) /*shr*/)
+
+    done raw12_to_rgb888_gamma_loop,i    		// load first pixel
+
+raw12_to_rgb888_gamma_loop:
+    lsr luta, ina0, 4							//raw data: 16bit with 0 in low 4 bit
+	dout lut,output_g,o							//output to R
+output_g:
+	dout lut,output_b,o							//output to G
+output_b:	
+	dout lut,raw12_to_rgb888_gamma_loop,ixo		//output to B
+	halt
+.global raw12_to_rgb888_gamma_end
+raw12_to_rgb888_gamma_end:

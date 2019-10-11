@@ -1,0 +1,27 @@
+GLOBAL &term_com_port &ip_address &file_elf &dir_elf &dir_sdk &dir_vmlinux
+
+&term_com_port="COM4"
+&ip_address="10.29.204.125"
+;&ip_address="169.254.205.102"
+&file_elf="pd_aggcf.elf"
+&dir_elf=os.file.path(&(elf_file))
+&dir_sdk="../../../.."
+&dir_vmlinux="C:/Tools/Trace32/vmlinux"
+
+b.d /ALL
+
+OS.HIDDEN scp -o StrictHostKeyChecking=no ../../../data/apps/pedestrian_detection_aggcf/gdc_pd.ini root@&(ip_address):/home/root/data/apps/pedestrian_detection_aggcf
+
+DO &(dir_sdk)/script/cmm/linux_userspace_process.cmm
+
+d.l
+
+symbol.SourcePATH.translate "/home/s32v" "V:"
+
+b.s __do_user_fault
+
+go main
+
+
+
+

@@ -1,0 +1,50 @@
+GLOBAL &term_com_port &ip_address &file_elf &dir_elf &dir_sdk &dir_vmlinux
+
+&term_com_port="COM4"
+&ip_address="10.29.204.125"
+&file_elf="gdc_pd.elf"
+&dir_elf=os.file.path(&(elf_file))
+&dir_sdk="../../../.."
+&dir_vmlinux="C:/Tools/Trace32/vmlinux"
+
+b.d /ALL
+
+;OS.HIDDEN scp -o StrictHostKeyChecking=no ../../../data/apps/pedestrian_detection_aggcf/gdc_pd.ini root@&(ip_address):/home/root/data/apps/pedestrian_detection_aggcf
+
+DO &(dir_sdk)/script/cmm/linux_userspace_process.cmm
+
+d.l
+
+symbol.SourcePATH.translate "/home/s32v" "V:"
+
+
+b.s __do_user_fault
+
+;b.s GdcPd_App::Start
+;b.s GdcPd_FileReaderTask::TaskService\20
+;b.s GdcPd_IpCameraTask::TaskOpen
+;b.s GdcPd_AggcfRealScaleTask::TaskOpen
+;b.s GdcPd_AggcfApproxScaleTask::TaskOpen
+;b.s GdcPd_AggcfDetectorTask::TaskOpen
+b.s GdcPd_DisplayTask::TaskOpen
+
+
+
+;b.s GdcPd_IpCameraTask::TaskService
+;b.s GdcPd_IpCameraTask::HandleImageRequest
+;b.s GdcPd_AggcfLuvTask::TaskService\22
+
+;b.s GdcPd_AggcfDetectorTask::TaskService\22
+;b.s GdcPd_AggcfApproxScaleTask::TaskService\22
+;b.s GdcPd_AggcfRealScaleTask::TaskService\22
+
+;b.s GdcPd_CompositionTask::TaskService\22
+b.s GdcPd_DisplayTask::TaskService\20
+
+;v.chain (*(gsp_Allocator[1])).chunk_sentinel (*(gsp_Allocator[1])).chunk_sentinel.pNext
+;v.v gs_num_allocations[0..3]
+
+
+;go
+
+

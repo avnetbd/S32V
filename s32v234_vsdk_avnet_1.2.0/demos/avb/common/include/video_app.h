@@ -1,0 +1,31 @@
+/*
+  Copyright (c) 2016-2018 NXP Semiconductors
+  All Rights Reserved.
+  
+  This file contains sample code only.
+  
+  THIS SOFTWARE IS PROVIDED BY NXP "AS IS" AND ANY EXPRESSED OR
+  IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+  OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+  IN NO EVENT SHALL NXP OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+  INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+  (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+  SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+  HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+  STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+  IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+  THE POSSIBILITY OF SUCH DAMAGE.
+*/
+
+#undef TRUE
+#undef FALSE
+#define TRUE 1U
+#define FALSE 0U
+
+extern int video_app_init(void);
+extern int video_app_start(void);
+extern int video_app_stop(void);
+extern int video_app_body(void);
+extern void video_app_abort_capture(bool shall_abort);
+extern bool video_app_get_async_err(void);
+extern void video_app_clear_async_err(void);

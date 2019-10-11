@@ -1,0 +1,58 @@
+&S32V234_SDK_ROOT=os.env(S32V234_SDK_ROOT)
+&LINUX_S32V234_DIR=os.env(LINUX_S32V234_DIR)
+
+// setup Linux awareness 
+do &S32V234_SDK_ROOT/os/debug/lauterbach/S32V234-CA53_linux.cmm
+
+// setup source paths
+sYmbol.SourcePATH &S32V234_SDK_ROOT/libs/arm/isp/csi/kernel/src
+sYmbol.SourcePATH &S32V234_SDK_ROOT/libs/arm/isp/csi/user/src
+y.spath ../src
+y.spath &S32V234_SDK_ROOT/libs/io/sdi/src
+y.spath &S32V234_SDK_ROOT/libs/isp/sequencer/user/src
+y.spath &S32V234_SDK_ROOT/libs/isp/sequencer/kernel/src
+y.spath &S32V234_SDK_ROOT/libs/startup/v234ce_standalone/src
+y.spath &S32V234_SDK_ROOT/libs/isp/sram/kernel/src
+y.spath &S32V234_SDK_ROOT/libs/utils/oal/user/src/standalone
+y.spath &S32V234_SDK_ROOT/libs/io/frame_io/src
+y.spath &S32V234_SDK_ROOT/libs/io/dcu/src
+y.spath &S32V234_SDK_ROOT/libs/isp/fdma/kernel/src
+y.spath &S32V234_SDK_ROOT/libs/isp/fdma/user/src
+
+
+sYmbol.SourcePATH &LINUX_S32V234_DIR/include
+
+// set brakepoint to main()
+do ~~/demo/arm64/kernel/linux/linux-3.x/app_debug.cmm isp_sony_de.elf
+
+enddo
+
+// does this: Linux->"Module debugging"->"Debug module on init..."->csi
+do ~~/demo/arm64/kernel/linux/linux-3.x/mod_debug.cmm seq
+//do ~~/demo/arm64/kernel/linux/linux-3.x/mod_debug.cmm fdma
+
+// now insert the module in console
+
+// load the module symbols
+sYmbol.AutoLoad.CHECK ONGO ;read symbols when stopped (not in single-step)
+//Task.symbol.loadmod "&S32V234_SDK_ROOT/libs/arm/isp/fdma/kernel/build-v234ce-gnu-linux-d/fdma.ko"
+Task.symbol.loadmod "&S32V234_SDK_ROOT/libs/arm/isp/sequencer/kernel/build-v234ce-gnu-linux-d/seq.ko"
+
+
+// set breakpoints in the module
+//b.s SEQ_DRV_TdtAddressesSet
+//b.s SEQ_MsgIrqHandler
+//b.s SEQ_MsgAckIrqHandler
+//b.s CsiIoctl
+b.s SEQ_DRV_FrmBufferPop
+//b.s FdmaIoctl
+//b.s SEQ_DRV_GraphStart
+//b.s SeqIoctl
+//b.s SEQ_S2hMsgTasklet
+
+STOP
+
+// set brakepoint to main()
+do ~~/demo/arm64/kernel/linux/linux-3.x/app_debug.cmm isp_chroma_key.elf
+
+ENDDO

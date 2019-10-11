@@ -1,0 +1,14 @@
+#.org    0x00
+.global ar0144_start
+
+ar0144_start:
+        done ar0144_loop,i    // load first pixel
+
+ar0144_loop:
+	AND ina0,0xff00
+	OR ina0,0x80
+	dout ina0,ar0144_loop,ixo
+
+        halt
+.global ar0144_end
+ar0144_end:

@@ -1,0 +1,13 @@
+#ifndef kmem_SYM_H
+#define kmem_SYM_H
+#define copy_replicate3x_start 0x0000000000000000
+#define bayer2display_start 0x0000000000000010
+#define copy_replicate3x_end 0x0000000000000010
+#define bayer2display_end 0x0000000000000060
+#define debayer_rgb_subsample_interleaved_start 0x0000000000000060
+#define debayer_rgb_simple_interleaved_start 0x000000000000008c
+#define debayer_rgb_subsample_interleaved_end 0x000000000000008c
+#define debayer_rgb_simple_interleaved_end 0x00000000000000e8
+#define raw12_to_rgb888_gamma_start 0x00000000000000e8
+#define raw12_to_rgb888_gamma_end 0x0000000000000100
+#endif

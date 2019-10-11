@@ -1,0 +1,3 @@
+To run this application:
+1. Open ov9716_quad.ini and edit UDPTRGTIP with ip of the board
+2. Copy ov9716_quad.ini to same location of application

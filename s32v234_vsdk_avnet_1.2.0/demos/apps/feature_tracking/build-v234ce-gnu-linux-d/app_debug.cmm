@@ -1,0 +1,31 @@
+&S32V234_SDK_ROOT=os.env(S32V234_SDK_ROOT)
+
+// setup Linux awareness 
+do &S32V234_SDK_ROOT/os/debug/lauterbach/S32V234-CA53_linux.cmm
+
+//// setup source paths
+//sYmbol.SourcePATH &S32V234_SDK_ROOT/libs/arm/isp/sram/kernel/src
+//sYmbol.SourcePATH &S32V234_SDK_ROOT/libs/arm/isp/sram/user/src
+//sYmbol.SourcePATH &S32V234_SDK_ROOT/tests/sram/src
+//
+//// does this: Linux->"Module debugging"->"Debug module on init..."->sram
+//do ~~/demo/arm64/kernel/linux/linux-3.x/mod_debug.cmm sram
+//
+//// now insert the sram module in console (insmod sram.ko)
+//
+//// load the sram module symbols
+//sYmbol.AutoLoad.CHECK ONGO ;read symbols when stopped (not in single-step)
+//Task.symbol.loadmod "&S32V234_SDK_ROOT/libs/arm/isp/sram/kernel/build-v234ce-gnu-linux-d/sram.ko"
+//
+//// set breakpoints in the sram module
+//b.s SRAM_SingleMalloc 
+//b.s SRAM_MultiMalloc
+//
+//STOP
+
+// set brakepoint to sram_user main()
+do ~~/demo/etc/terminal/serial/term.cmm COM4 115200.
+do ~~/demo/arm64/kernel/linux/linux-3.x/app_debug.cmm /DIALOG
+
+
+ENDDO

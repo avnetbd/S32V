@@ -1,0 +1,7 @@
+Registering kernel 'apu_downsample'
+Registering kernel 'apu_downsample_16u'
+Registering kernel 'apu_downsample_gauss'
+Registering kernel 'apu_upsample'
+Creating file resizing_kernels_db.h
+4 kernels exists in the database
+rval = 0

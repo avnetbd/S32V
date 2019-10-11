@@ -1,0 +1,31 @@
+GLOBAL &term_com_port &ip_address &file_elf &dir_elf &dir_sdk &dir_vmlinux
+
+&term_com_port="COM4"
+&ip_address="10.29.204.125"
+&file_elf="gdc_cnn.elf"
+&dir_elf=os.file.path(&(elf_file))
+&dir_sdk="../../../.."
+&dir_vmlinux="C:/Tools/Trace32/vmlinux"
+
+b.d /ALL
+
+OS.HIDDEN scp -o StrictHostKeyChecking=no ../../../data/apps/cnn_classifier/gdc_cnn.ini root@&(ip_address):/home/root/data/apps/cnn_classifier
+
+
+DO &(dir_sdk)/script/cmm/linux_userspace_process.cmm
+
+d.l
+
+symbol.SourcePATH.Translate "/home/s32v/__GitRepositories/linux/" "C:/Tools/Trace32/vmlinux/"
+symbol.SourcePATH.Translate "/home/s32v/" "V:/"
+
+b.s __do_user_fault
+b.s GdcCnn_App::Start\209
+b.s GdcCnn_FileReaderTask::TaskOpen\37
+b.s GdcCnn_StdinTask::TaskService
+b.s GdcCnn_StdinTask::TaskService\19
+b.s GdcCnn_StdinTask::TaskService\63
+
+go
+
+ENDDO

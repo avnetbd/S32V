@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jpeg_4stream</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.sirius.nature.modelingproject</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>ISP_kernels/yuv420planar2yuv422interleaved_quad.ipus</name>
+			<type>1</type>
+			<location>C:/NXP/S32DS_Vision_v2.0/S32DS/s32v234_sdk/isp/kernels/generic/src/yuv420planar2yuv422interleaved_quad.ipus</location>
+		</link>
+	</linkedResources>
+</projectDescription>

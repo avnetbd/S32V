@@ -1,0 +1,50 @@
+QUICK START
+==============================
+To create a new project:
+ 1. Copy and paste this project.
+ 2. On the entire APPLICATION_DEMO tree, run the following find & replace:
+      b)  APPLICATION_DEMO -> your_app
+            This is used generally where we use your_app (e.g., file names) 
+            It is also used in include guards.    
+
+      c) gdcAd -> placeYa
+         This is the short form for your application name.
+         Current format:
+            - development location (e.g., gdc for Gatineau Development Centre)
+            - application shorthand (Ya for Your app)
+      
+      d) _GDC_TEMPLATE_ -> _PLACE_APP_
+         PLACE is the same as above. Template is your app name
+         (e.g., FACE_DETECTOR). You can also abbreviate this (e.g., FD) to
+         increase readability, as many functions use this as their prefix.
+
+3. Rename the files as shown above.
+
+INTRODUCTION
+==============================
+This project functions as a skeleton. That is to say, it contains everything
+needed for scheduling the two processes (process0 and process1), initializing
+them, and displaying them to the screen; but if you run this project, it does
+not actually do anything. It is up to you to write the code to do the actual
+processing.
+
+You have two processing tasks to work with. For example:
+   process0 may be a call to apexcv::Resize
+   process1 may be a call to apexcv::Hog
+
+You need to propagate the code with everything that these require -- their
+input parameters and any other processing you want to do.
+
+In particular, there are TO USE comments scattered through this code. This
+is where you need to add to the project. Some of these are optional; these
+are noted as well.
+
+In particular, attempts are made to note special project requirements: things
+that you MUST do or the project will break (like making calls to ACF only when
+you have the semaphore).
+
+REFERENCE PROJECT
+==============================
+This project is based off of the pedestrian detector demo, which,
+coincidentally, uses apexcv::Resize and apexcv::Hog. As a result,
+it is a good starting point or 'reference project.'

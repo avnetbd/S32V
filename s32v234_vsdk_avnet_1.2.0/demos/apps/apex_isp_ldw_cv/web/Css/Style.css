@@ -1,0 +1,123 @@
+body {
+    font: normal 16px/20px "Helvetica Neue", Helvetica, sans-serif;
+    background: rgb(255, 255, 255);
+    margin: 0;
+    margin-top: 40px;
+    padding: 0;
+    text-align:center;
+}
+
+section, header {
+    display: block;
+}
+
+input{
+    border-radius: 5px;
+}
+
+#mainwindow {
+    margin: 0;
+    padding: 20px;
+    border-radius: 10px;
+    border: 3px solid #000000;
+}
+
+#trstyle {
+    text-align:left;
+}
+
+#wrapper {
+    width: auto;
+    margin: 0 auto;
+    background: linear-gradient(to bottom right, rgb(123, 177, 219), rgb(255, 255, 255));
+    border-radius: 10px;
+    border: 3px solid #000000;
+    padding-bottom: 16px;
+}
+
+#wrapper_black {
+    display: inline-block;
+    width: auto;
+    margin: 0 auto;
+    background: linear-gradient(to bottom right, rgb(70, 70, 70), rgb(255, 255, 255));
+    border-radius: 10px;
+    border: 3px solid #000000;
+    padding: 16px;
+}
+
+#wrapper_side_left {
+    width: 260px;
+    margin: 0 auto;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background: linear-gradient(to bottom right,rgb(255, 181, 0), rgb(255, 255, 255));
+    border-radius: 10px;
+    border: 3px solid #000000;
+    padding-bottom: 16px;
+}
+
+#wrapper_side_right {
+    width: 260px;
+    margin: 0 auto;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background: linear-gradient(to bottom right,rgb(201, 210, 0), rgb(255, 255, 255));
+    border-radius: 10px;
+    border: 3px solid #000000;
+    padding-bottom: 16px;
+}
+
+h1 {
+    text-align: center;
+    color:rgb(201, 210, 0);
+}
+
+h2 {
+    font-size: 100%;
+    font-style: italic;
+}
+
+header,
+article > * {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#status {
+    padding: 5px;
+    color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    background: #ccc;
+}
+
+#status.fail {
+    background: #c00;
+}
+
+#status.success {
+    background: #0c0;
+}
+
+#status.offline {
+    background: #c00;
+}
+
+#status.online {
+    background: #0c0;
+}
+
+#pstyle {
+    font-size:small;
+    margin:2px;
+}
+
+#pstyle_header {
+    font-weight:bold;
+    font-size:small;
+    text-align:center;
+    margin-top:10px;
+    margin-bottom:0px;
+}

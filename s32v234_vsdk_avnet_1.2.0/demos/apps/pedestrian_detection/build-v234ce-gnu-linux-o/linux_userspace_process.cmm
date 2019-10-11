@@ -1,0 +1,26 @@
+GLOBAL &term_com_port &ip_address &file_elf &dir_elf &dir_sdk &dir_vmlinux
+
+&term_com_port="COM7"
+&ip_address="10.29.204.121"
+&file_elf="pd.elf"
+&dir_elf=os.file.path(&(elf_file))
+&dir_sdk="../../../.."
+&dir_vmlinux="C:/Tools/Trace32/vmlinux"
+
+b.d /ALL
+
+OS.HIDDEN scp -o StrictHostKeyChecking=no ../../../data/apps/pedestrian_detection/gdc_pd.ini root@&(ip_address):/root
+
+DO &(dir_sdk)/script/cmm/linux_userspace_process.cmm
+
+d.l
+
+;b.s GdcPd_Helper::PrintMismatch_PedestrianDetection
+;b.s OAL_ContAllocAlloc
+;b.s OAL_MemoryReturnAddress
+
+symbol.SourcePATH.translate "/home/s32v/__GitRepositories/vsdk" "C:/__GitRepositories/b_dev_cloud-1077"
+symbol.SourcePATH.translate "/home/s32v/__GitRepositories/linux" "C:/Tools/Trace32/vmlinux"
+
+go
+

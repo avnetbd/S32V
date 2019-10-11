@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>NXP_LDW</title>
+    <link rel="stylesheet" type="text/css" href="Css/Style.css">
+    <meta charset=utf-8>
+</head>
+<body>
+    <div id="wrapper_black">
+        <header>
+            <table style="margin:auto">
+                <tr id="trstyle">
+                    <td width="33%"><img src="NXP_logo.png" /></td>
+                    <td width="33%" style="text-align:center">
+                        <h1>Lane Departure Warning</h1>
+                    </td>
+                    <td width="33%"></td>
+                </tr>
+            </table>
+        </header>
+        <section>
+            <table style="margin:auto;">
+                <tr>
+                    <td style="vertical-align:top">
+
+                        <article id="wrapper_side_left">
+                            <p id="pstyle_header">Draw bird view<input type="checkbox" name="draw_bird"></p>
+                            <p id="pstyle_header">Up left scene point</p>
+                            <table style="margin:auto">
+                                <tr>
+                                    <td><p id="pstyle">X:</p></td>
+                                    <td><input name="tran_up_left_scene_x" style="text-align:center; width:45px;" type="number" min="0" max="639" value="0" /></td>
+                                    <td><p id="pstyle">Y:</p></td>
+                                    <td><input name="tran_up_left_scene_y" style="text-align:center; width:45px;" type="number" min="0" max="359" value="0" /></td>
+                                </tr>
+                            </table>
+
+                            <p id="pstyle_header">Up right scene point</p>
+                            <table style="margin:auto">
+                                <tr>
+                                    <td><p id="pstyle">X:</p></td>
+                                    <td><input name="tran_up_right_scene_x" style="text-align:center; width:45px;" type="number" min="0" max="639" value="0" /></td>
+                                    <td><p id="pstyle">Y:</p></td>
+                                    <td><input name="tran_up_right_scene_y" style="text-align:center; width:45px;" type="number" min="0" max="359" value="0" /></td>
+                                </tr>
+                            </table>
+
+                            <p id="pstyle_header">Down left scene point</p>
+                            <table style="margin:auto">
+                                <tr>
+                                    <td><p id="pstyle">X:</p></td>
+                                    <td><input name="tran_down_left_scene_x" style="text-align:center; width:45px;" type="number" min="0" max="639" value="0" /></td>
+                                    <td><p id="pstyle">Y:</p></td>
+                                    <td><input name="tran_down_left_scene_y" style="text-align:center; width:45px;" type="number" min="0" max="359" value="0" /></td>
+                                </tr>
+                            </table>
+                            <p id="pstyle_header">Down right scene point</p>
+                            <table style="margin:auto">
+                                <tr>
+                                    <td><p id="pstyle">X:</p></td>
+                                    <td><input name="tran_down_right_scene_x" style="text-align:center; width:45px;" type="number" min="0" max="639" value="0" /></td>
+                                    <td><p id="pstyle">Y:</p></td>
+                                    <td><input name="tran_down_right_scene_y" style="text-align:center; width:45px;" type="number" min="0" max="359" value="0" /></td>
+                                </tr>
+                            </table>
+                        </article>
+
+                        <article id="wrapper_side_left">
+                            <p id="pstyle_header">Draw lane positions<input onchange="inputChange(this)" type="checkbox" name="draw_lane_positions"></p>
+                            <p id="pstyle_header">Warning right trigger:</p>
+                            <table style="margin:auto">
+                                <tr>
+                                    <td><p id="pstyle">Min:</p></td>
+                                    <td><input name="war_right_min" style="text-align:center; width:45px;" type="number" min="0" max="100" value="0" /></td>
+                                    <td><p id="pstyle">Max:</p></td>
+                                    <td><input name="war_right_max" style="text-align:center; width:45px;" type="number" min="0" max="100" value="0" /></td>
+                                </tr>
+                            </table>
+
+                            <p id="pstyle_header">Warning left trigger:</p>
+                            <table style="margin:auto">
+                                <tr>
+                                    <td><p id="pstyle">Min:</p></td>
+                                    <td><input name="war_left_min" style="text-align:center; width:45px;" type="number" min="0" max="100" value="0" /></td>
+                                    <td><p id="pstyle">Max:</p></td>
+                                    <td><input name="war_left_max" style="text-align:center; width:45px;" type="number" min="0" max="100" value="0" /></td>
+                                </tr>
+                            </table>
+                        </article>
+
+                        <article id="wrapper_side_left">
+                            <table style="margin:auto">
+                                <tr>
+                                    <td><p id="pstyle" style="margin-top:20px">Max value of instability counter:</p></td>
+                                    <td><input name="max_of_instability_counter" style="text-align:center; width:45px; margin-top:20px" type="number" min="0" max="500" value="0" /></td>
+                                </tr>
+                            </table>
+                        </article>
+                    </td>
+                    <td style="vertical-align:top">
+                        <article id="wrapper">
+
+                            <p id="status">Not connected</p>
+
+                            <!--
+                                <span>Users connected: <span id="connected">0</span></span>
+                                <span>FPS: <span id="fps">0</span></span>
+                            -->
+
+                            <table style="margin: 20px 10px 20px 20px; width:94%" id="wrapper_side_left">
+                                <tr>
+                                    <td width="33%"><p id="pstyle_header">APEX Process times [us]</p></td>
+                                    <td width="33%"><p id="pstyle_header">ARM Process times [us]</p></td>
+                                    <td width="33%"><p id="pstyle_header">OTHER Process times [us]</p></td>
+                                </tr>
+                                <tr>
+                                    <td width="33%"><p id="pstyle">*Bird view: <output id="pstyle_header" style="text-align:center; padding: 5px" name="birdview_time" disabled /></p></td>
+                                    <td width="33%"><p id="pstyle">*Lane find: <output id="pstyle_header" style="text-align:center; padding: 5px" name="findlane_time" disabled /></p></td>
+                                    <td width="33%"><p id="pstyle">NEON rotate/copy: <output id="pstyle_header" style="text-align:center; padding: 5px" name="neon_memcpy_time" disabled /></p></td>
+                                </tr>
+                                <tr>
+                                    <td width="33%"><p id="pstyle">*History: <output id="pstyle_header" style="text-align:center; padding: 5px" name="history_time" disabled /></p></td>
+                                    <td width="33%"><p id="pstyle">Visualization: <output id="pstyle_header" style="text-align:center; padding: 5px" name="visualization_time" disabled /></p></td>
+                                    <td width="33%"><p id="pstyle">OPENCV resize: <output id="pstyle_header" style="text-align:center; padding: 5px" name="ocv_resize_time" disabled /></p></td>
+                                </tr>
+
+                                <tr>
+                                    <td width="33%"><p id="pstyle">*To signals: <output id="pstyle_header" style="text-align:center; padding: 5px" name="to_signals_time" disabled /></p></td>
+                                    <td width="33%"><p id="pstyle">Draw image: <output id="pstyle_header" style="text-align:center; padding: 5px" name="dcu_time" disabled /></p></td>
+                                    <td width="33%"><p id="pstyle">H264 encode: <output id="pstyle_header" style="text-align:center; padding: 5px" name="h264encoder_time" disabled /></p></td>
+                                </tr>
+                                
+                                
+                            </table>
+                            <p>
+                                <span>Origin data: <input checked="checked" type="radio" value="origin" name="video_data_sel" /></span>
+                                <span>Analysis data:  <input type="radio" value="analysis" name="video_data_sel" /></span>
+                            </p>
+                                <canvas name="mainCanvas" width="640" height="360" style="border:3px solid #000000; border-radius: 10px;"></canvas>
+						</article>
+                    </td>
+                    <td style="vertical-align:top">
+                        <article id="wrapper_side_right">
+                            <p id="pstyle_header">Priority curve</p>
+                            <canvas tabindex="1" id="priorCanvas" width="220" height="210" style="border:3px solid #000000; border-radius: 10px;"></canvas>
+                        </article>
+                        <article id="wrapper_side_right">
+                            <p id="pstyle_header">Kalman filter parametrs</p>
+                            <table style="margin:auto">
+                                <tr>
+                                    <td width="60%"><p id="pstyle">Measurement noise:</p></td>
+                                    <td width="40%"><input name="kalman_measurement_noise" style="text-align:center; width:80px" type="number" min="0.001" max="0.1" value="0.1" step="0.001" /></td>
+                                </tr>
+                            </table>
+
+                            <table style="margin:auto">
+                                <tr>
+                                    <td width="60%"><p id="pstyle">Post error:</p></td>
+                                    <td width="40%"><input name="kalman_post_error" style="text-align:center; width:80px" type="number" min="0.0001" max="0.01" value="0.01" step="0.0001" /></td>
+                                </tr>
+                            </table>
+
+                            <table style="margin:auto">
+                                <tr>
+                                    <td width="60%"><p id="pstyle">Process noise var:</p></td>
+                                    <td width="40%"><input name="kalman_noise_var" style="text-align:center; width:80px" type="number" min="0.0001" max="0.01" value="0.01" step="0.0001" /></td>
+                                </tr>
+                            </table>
+                        </article>
+                    </td>
+                </tr>
+            </table>
+            <script type="text/javascript" src="../../../../libs/webserver/javascript/Decoder.js"></script>
+            <script type="text/javascript" src="../../../../libs/webserver/javascript/YUVCanvas.js"></script>
+            <script type="text/javascript" src="../../../../libs/webserver/javascript/Player.js"></script>
+			<script src="../../../../libs/webserver/javascript/evb_webserver.js"></script>
+            <script>
+
+                connected = document.getElementById("connected");
+                state = document.getElementById("status");
+
+                var myVar = setInterval(myTimer, 1000);
+                var counter = 0;
+                var sekvence_index = 0;
+                var last_buffer = new Uint8Array();
+                var isDrawing = false;
+				var evb_ws;
+                var priorityCurve = [new Point(0, 0, 4),
+                                     new Point(1, 14, 12),
+                                     new Point(2, 28, 12),
+                                     new Point(3, 42, 4),
+                                     new Point(4, 56, 4),
+                                     new Point(5, 70, 12),
+                                     new Point(6, 85, 12),
+                                     new Point(7, 100, 4)];
+
+                var prioritySelected = priorityCurve[0];
+
+                var p = new Player({
+                    useWorker: true,
+                    webgl: true,
+                    workerFile: "Decoder.js", // give path to Decoder.js
+                    size: { width: 640, height: 384 }
+                });
+
+                var mainCanvas = document.getElementsByName("mainCanvas")[0];
+                p.canvas.style.border = "3px solid #000000";
+                p.canvas.style.borderRadius = "10px";
+                p.canvas.setAttribute("name", mainCanvas.getAttribute("name"));
+                var globalHeader = "";
+                
+				function Point(index, x, y) {
+                    this.x = x;
+                    this.y = y;
+                    this.index = index;
+                }
+
+                function myTimer() {
+                    //fps.innerHTML = window.counter;
+                    window.counter = 0;
+				}
+
+                if (window.WebSocket === undefined) {
+                    state.innerHTML = "sockets not supported";
+                    state.className = "fail";
+                }
+                else {
+                    if (typeof String.prototype.startsWith != "function") {
+                        String.prototype.startsWith = function (str) {
+                            return this.indexOf(str) == 0;
+                        };
+                    }
+
+                    window.addEventListener("load", onLoad, false);
+                }
+
+                function onLoad() {
+                    var wsUri = "ws://10.0.0.2:7777";
+
+                    evb_ws = new evb_websocket(wsUri, document.getElementsByTagName('input'));
+					evb_ws.onOpen = onOpen;
+					evb_ws.onClose = onClose;
+					evb_ws.onStreamReceived = onStreamReceived;
+					evb_ws.onError = onError;
+					evb_ws.onUnrecognized = onUnrecognized;
+					
+					
+					
+                    var canvas = document.getElementById("priorCanvas");
+                    canvas.addEventListener("mousedown", on_priorCanvas_mouse_down, true);
+                    canvas.addEventListener("keydown", on_priorCanvas_key_down, true);
+                    redraw_priority_canvas(canvas);
+                }
+
+                function getMousePos(canvas, evt) {
+                    var rect = canvas.getBoundingClientRect();
+                    return {
+                        x: evt.clientX - rect.left,
+                        y: evt.clientY - rect.top
+                    };
+                }
+
+                function on_priorCanvas_mouse_down(event) {
+                    var canvas = document.getElementById("priorCanvas");
+                    var mousePos = getMousePos(canvas, event);
+
+                    var x = (mousePos.x / canvas.width - 0.2) / 0.006;
+                    var y = -(mousePos.y / canvas.height - 0.8) / 0.03;
+
+                    var min = 100000;
+
+                    priorityCurve.forEach(function (item) {
+                        var dist = Math.sqrt((item.x - x) * (item.x - x) + (item.y - y) * (item.y - y));
+                        if (dist < min) {
+                            min = dist;
+                            window.prioritySelected = item;
+                        }
+                    });
+
+                    redraw_priority_canvas(canvas);
+                }
+
+                function onOpen(evt, message) {
+                    state.className = "success";
+                    state.innerHTML = "Connected to server";
+					
+					priorityCurve.forEach(function (item) {
+                        message += "priority_" + item.index + "_x&";
+                        message += item.x + "&";
+                        message += "priority_" + item.index + "_y&";
+                        message += item.y + "&";
+                    });
+
+                    evb_ws.sendRaw(message);
+                }
+
+                function onClose(evt) {
+                    state.className = "fail";
+                    state.innerHTML = "Not connected";
+                }
+
+				function onUnrecognized(name, value)
+				{
+					if (name.startsWith("priority_")) {
+						name = name.slice("priority_".length);
+						var index = name.substring(0, name.indexOf("_"));
+						var XorY = name.substring(name.indexOf("_") + 1, name.indexOf("_") + 2);
+						var result = priorityCurve.filter(function (obj) {
+							return obj.index == index;
+						});
+
+						if (XorY === "x")
+							priorityCurve[index].x = parseInt(value, 10);
+						else
+							priorityCurve[index].y = parseInt(value, 10);
+
+						var canvas = document.getElementById("priorCanvas");
+						redraw_priority_canvas(canvas);
+					}
+				}
+				
+                var call_time = 0;
+
+                var can_draw = 0;
+
+				function onStreamReceived(header, byteArray)
+				{
+					var canvas = document.getElementsByName(header.substring(0, header.indexOf(",")))[0];
+						
+					var imageWidth = 640, imageHeight = 360; // hardcoded width & height.
+
+					header = header.slice(header.indexOf(",") + 1);
+					if (header.startsWith("origin")) {
+						if (!window.globalHeader.startsWith("origin"))
+						{
+							if (canvas !== p.canvas)
+							{
+								canvas.parentNode.insertBefore(p.canvas, canvas.nextSibling);
+								canvas.parentNode.removeChild(canvas);
+							}
+
+							window.globalHeader = "origin";
+						}
+
+						var sliced = byteArray;
+						for (var i = 0; i < sliced.length - 3; i++) {
+							if (sliced[i] == 0 && sliced[i + 1] == 0 && sliced[i + 2] == 0 && sliced[i + 3] == 1)
+							{
+								window.sekvence_index = i;
+								break;
+							}
+						}
+
+						var tmp = new Uint8Array(window.last_buffer.byteLength + sliced.slice(0, window.sekvence_index - 1).byteLength);
+						tmp.set(new Uint8Array(window.last_buffer), 0);
+						tmp.set(new Uint8Array(sliced.slice(0, window.sekvence_index - 1)), window.last_buffer.byteLength);
+
+						p.decode(tmp);
+						window.last_buffer = new Uint8Array(sliced.slice(window.sekvence_index));
+
+						call_time = performance.now();
+
+
+					}
+
+					if (header.startsWith("analysis")) {
+						if (!window.globalHeader.startsWith("analysis")) {
+							if (canvas !== mainCanvas)
+							{
+								canvas.parentNode.insertBefore(mainCanvas, canvas.nextSibling);
+								canvas.parentNode.removeChild(canvas);
+							}                           
+							window.globalHeader = "analysis";
+						}
+
+						if (performance.now() - call_time < 15)
+						{
+							return;
+						}
+						var ctx = canvas.getContext('2d');
+						ctx.clearRect(0, 0, canvas.width, canvas.height);
+						var imageData = ctx.createImageData(192, 320);
+
+						ctx.font = "16px Arial";
+
+						ctx.fillText("Bird View", 80, 22);
+						ctx.fillText("Bir0 View History", 260, 22);
+						ctx.fillText("Signals for analysis", 460, 22);
+
+						for (var j = 0; j < 2; j++) {
+
+
+							var dataLen = 192 * 320;
+							if (j === 0)
+								var counter = 0;
+
+							var buf = new ArrayBuffer(imageData.data.length);
+							var buf8 = new Uint8ClampedArray(buf);
+							var data = new Uint32Array(buf);
+
+							for (var i = 0; i < dataLen; i++) {
+
+								data[i] =
+									(255 << 24) |    // alpha
+									(byteArray[counter] * 5 << 16) |    // blue
+									(byteArray[counter] * 5 << 8) |    // green
+									byteArray[counter] * 5;            // red
+								counter++;
+							}
+
+							imageData.data.set(buf8);
+
+							ctx.putImageData(imageData, 16 + j * 208, 30);
+						}
+
+						ctx.rect(432, 30, 192, 320);
+						ctx.strokeStyle = "black";
+						ctx.stroke();
+
+						for (var k = 0; k < 2; k++) {
+							ctx.beginPath();
+							var x = 432;
+							for (var j = 0; j < 192 - 1; j++) {
+
+								var val = (byteArray[counter + 3] << 24) | (byteArray[counter + 2] << 16) | (byteArray[counter + 1] << 8) | (byteArray[counter]);
+								if (350 - val * 330 / 1000000 < 30)
+									ctx.moveTo(x, 30);
+								else
+									ctx.moveTo(x, 350 - val * 330 / 1000000);
+
+								x++;
+								counter += 4;
+
+								val = (byteArray[counter + 3] << 24) | (byteArray[counter + 2] << 16) | (byteArray[counter + 1] << 8) | (byteArray[counter]);
+								if (350 - val * 350 / 1000000 < 30)
+									ctx.lineTo(x, 30);
+								else
+									ctx.lineTo(x, 350 - val * 330 / 1000000);
+							}
+							if (k === 0)
+								ctx.strokeStyle = "red";
+							else
+								ctx.strokeStyle = "green";
+							ctx.stroke();
+						}
+
+						call_time = performance.now();
+					}
+				}
+	
+
+                function continueExecution() {
+                    //finish doing things after the pause
+                }
+                function onError(evt) {
+                    state.className = "fail";
+                    state.innerHTML = "Communication error";
+                }
+				
+				function on_priorCanvas_key_down(event) {
+
+                    priorityCurve.forEach(function (item) {
+                        if (item === prioritySelected) {
+                            switch (event.key) {
+                                case "ArrowUp":
+                                    item.y = item.y + 1;
+                                    if (item.y > 20) item.y = 20;
+                                    break;
+                                case "ArrowDown":
+                                    item.y = item.y - 1;
+                                    if (item.y < 0) item.y = 0;
+                                    break;
+                                case "ArrowLeft":
+                                    item.x = item.x - 1;
+                                    if (item.x < 0) item.x = 0;
+                                    break;
+                                case "ArrowRight":
+                                    item.x = item.x + 1;
+                                    if (item.x > 100) item.x = 100;
+                                    break;
+                            }
+                            prioritySelected = item;
+
+                            var message = "shared_update:";
+                            message += "priority_" + item.index + "_x&";
+                            message += item.x + "&";
+                            message += "priority_" + item.index + "_y&";
+                            message += item.y + "&";
+
+                            evb_ws.sendRaw(message);
+                            var canvas = document.getElementById("priorCanvas");
+                            redraw_priority_canvas(canvas);
+                        }
+                    });
+                }
+				
+				function redraw_priority_canvas(canvas) {
+                    var ctx = canvas.getContext("2d");
+                    ctx.clearRect(0, 0, canvas.width, canvas.height);
+                    ctx.beginPath();
+
+                    //vertical axe
+                    for (var i = 0.2; i <= 0.8; i += 0.12) {
+                        ctx.moveTo(canvas.width * 0.18, canvas.height * i);
+                        ctx.lineTo(canvas.width * 0.22, canvas.height * i);
+                    }
+
+                    ctx.moveTo(canvas.width * 0.2, canvas.height * 0.2);
+                    ctx.lineTo(canvas.width * 0.2, canvas.height * 0.8);
+
+                    //horizontal axe
+                    for (var i = 0.2; i <= 0.8; i += 0.12) {
+                        ctx.moveTo(canvas.width * i, canvas.height * 0.78);
+                        ctx.lineTo(canvas.width * i, canvas.height * 0.82);
+                    }
+
+                    ctx.moveTo(canvas.width * 0.2, canvas.height * 0.8);
+                    ctx.lineTo(canvas.width * 0.8, canvas.height * 0.8);
+                    ctx.strokeStyle = "black";
+                    ctx.stroke();
+
+                    ctx.font = "11px Arial";
+                    ctx.fillStyle = "black";
+                    ctx.fillText("20", canvas.width * 0.085, canvas.height * 0.215);
+                    ctx.fillText("16", canvas.width * 0.085, canvas.height * 0.335);
+                    ctx.fillText("12", canvas.width * 0.085, canvas.height * 0.455);
+                    ctx.fillText("8", canvas.width * 0.085, canvas.height * 0.575);
+                    ctx.fillText("4", canvas.width * 0.085, canvas.height * 0.695);
+                    ctx.fillText("0", canvas.width * 0.085, canvas.height * 0.815);
+
+                    ctx.fillText("0", canvas.width * 0.185, canvas.height * 0.88);
+                    ctx.fillText("20", canvas.width * 0.29, canvas.height * 0.88);
+                    ctx.fillText("40", canvas.width * 0.41, canvas.height * 0.88);
+                    ctx.fillText("60", canvas.width * 0.53, canvas.height * 0.88);
+                    ctx.fillText("80", canvas.width * 0.65, canvas.height * 0.88);
+                    ctx.fillText("100", canvas.width * 0.77, canvas.height * 0.88);
+
+                    ctx.fillText("Selected point x: " + window.prioritySelected.x + " y: " + window.prioritySelected.y, canvas.width * 0.25, canvas.height * 0.1);
+
+                    var prev = priorityCurve[0];
+
+                    priorityCurve.forEach(function (item) {
+                        ctx.beginPath();
+                        var cX = (item.x * 0.006 + 0.2) * canvas.width;
+                        var cY = (0.8 - item.y * 0.03) * canvas.height;
+
+                        if (window.prioritySelected === item) {
+                            ctx.fillStyle = "red";
+                            ctx.arc(cX, cY, 4, 0, 2 * Math.PI, false);
+                        }
+
+                        else {
+                            ctx.fillStyle = "blue";
+                            ctx.arc(cX, cY, 3, 0, 2 * Math.PI, false);
+                        }
+
+                        ctx.fill();
+
+                        ctx.moveTo(cX, cY);
+                        cX = (prev.x * 0.006 + 0.2) * canvas.width;
+                        cY = (0.8 - prev.y * 0.03) * canvas.height;
+                        ctx.lineTo(cX, cY);
+                        ctx.strokeStyle = "blue";
+                        ctx.stroke();
+                        prev = item;
+
+                    });
+                }
+					
+            </script>
+        </section>
+    </div>
+</body>
+
+</html>   

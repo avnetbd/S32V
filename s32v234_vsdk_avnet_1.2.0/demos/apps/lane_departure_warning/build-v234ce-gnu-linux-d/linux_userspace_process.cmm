@@ -1,0 +1,30 @@
+GLOBAL &term_com_port &ip_address &file_elf &dir_elf &dir_sdk &dir_vmlinux
+
+&term_com_port="COM4"
+&ip_address="10.29.204.125"
+;&ip_address="169.254.205.102"
+&file_elf="gdc_ldw.elf"
+&dir_elf=os.file.path(&(elf_file))
+&dir_sdk="../../../.."
+&dir_vmlinux="C:/Tools/Trace32/vmlinux"
+
+b.d /ALL
+
+OS.HIDDEN scp -o StrictHostKeyChecking=no ../../../data/apps/lane_departure_warning/gdc_ldw.ini root@&(ip_address):/home/root/data/apps/lane_departure_warning/
+;OS.HIDDEN scp -o StrictHostKeyChecking=no ../../../data/apps/lane_departure_warning/gdc_ldw_calib_loader.ini root@&(ip_address):/home/root/data/apps/lane_departure_warning/
+OS.HIDDEN scp -o StrictHostKeyChecking=no ../../../data/apps/lane_departure_warning/gdc_ldw_calib_loader.txt root@&(ip_address):/home/root/data/apps/lane_departure_warning/
+
+DO &(dir_sdk)/script/cmm/linux_userspace_process.cmm
+
+d.l
+
+symbol.sourcepath.translate "/home/s32v/" "V:/"
+
+b.s __do_user_fault
+
+;b.s GdcLdw_App::Start
+
+
+go
+
+ENDDO
